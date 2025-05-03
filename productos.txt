@@ -1,10 +1,12 @@
-1|https://i.ibb.co/B5LhXsHS/imagen-2025-04-30-173902528.png|ANTENA TX|Cable: 1.47m \nMedida: ALTO 20CM \n"PRESENTACIÓN EN BOLSA"|8.900|6.900|No tiene garantia|1
-2|https://i.ibb.co/KzQpPNP2/imagen-2025-04-30-175801932.png|EXTRACTOR DE LECHE ELÉCTRICO BZ-8003|Posee 3 modos: Masaje, lactancia y succión.\n-Niveles de fuerza: 9 ajustables. \nRecargable USB. \nIncluye chupo para tetero. \nColores: Rosado y azul|74.900|59.900|3 Meses|1
-3|https://i.ibb.co/nNs8J4q7/imagen-2025-04-30-180211138.png|BASE DE CEPILLO DE DIENTES JX-5588|-Ideal para organizar los cepillos de diente.\n-Dispensa crema.\n-Esteriliza los cepillos.\n-Recargable USB.||34.900|No tiene garantia|1
-4|https://i.ibb.co/wNX9MH9K/imagen-2025-04-30-183938820.png|REMOVEDOR DE MOTAS SN-9911|Recargable con cable tipo c. \nIncluye repuesto\nColor: Rosado y Azul.|49.900.|39.900|2 Meses|1
-5|https://i.ibb.co/zVmGjtsV/imagen-2025-04-30-184430005.png|VAPORIZADOR FACIAL BY1078|Rosado & Morado|54.900.|47.900|3 Meses|1
-6|https://i.ibb.co/8gTv1DGf/imagen-2025-04-30-184656723.png|VAPORIZADOR FACIAL YL-882|-Capacidad: 20 ml\n-Recargable USB||19.900|15 Días|1
-7|https://i.ibb.co/V8LSKWb/imagen-2025-05-01-102545248.png|MASAJEADOR FACIAL 5 EN 1 AE-8782|Posee 5 cabezales intercambiables.\n-Bateria AA (NO INCLUYE)|29.900|21.900|1 Mes|1
-8|https://i.ibb.co/0VDYn33X/imagen-2025-05-01-103017567.png|RODILLO FACIAL ICE NN-005|-Posee capsulas de gel que contiene frío, el cual se activa cuando se ingresa al refrigerador.|28.900|19.900|No tiene garantia|1
-9|https://i.ibb.co/HLJ8Q5cw/imagen-2025-05-01-103533327.png|REMOVEDOR DE CALLO LT-2030|Recargable tipo USB.\nIncluye 2 cabezales de rodillo.\nPosee 2 velocidades|39.900|31.900|1 Mes|1
-10|https://i.ibb.co/hFFSyCJM/imagen-2025-05-01-103834284.png|REMOVEDOR ELÈCTRICO DE CALLOS GH-99|Motor potente con control de velocidad alrededor de 600rpm\nIncluye 60 discos de lijado de repuesto.|69.900|59.900|3 Meses|1
+1|https://i.ibb.co/B5LhXsHS/imagen-2025-04-30-173902528.png|ANTENA TX|Cable: 1.47m \nMedida: ALTO 20CM \n"PRESENTACIÓN EN BOLSA"|8.900|6.900|No tiene garantia|1|antenas
+2|https://i.ibb.co/KzQpPNP2/imagen-2025-04-30-175801932.png|EXTRACTOR DE LECHE ELÉCTRICO BZ-8003|Posee 3 modos: Masaje, lactancia y succión.\n-Niveles de fuerza: 9 ajustables. \nRecargable USB. \nIncluye chupo para tetero. \nColores: Rosado y azul|74.900|59.900|3 Meses|1|belleza
+3|https://i.ibb.co/nNs8J4q7/imagen-2025-04-30-180211138.png|BASE DE CEPILLO DE DIENTES JX-5588|-Ideal para organizar los cepillos de diente.\n-Dispensa crema.\n-Esteriliza los cepillos.\n-Recargable USB.||34.900|No tiene garantia|1|belleza
+4|https://i.ibb.co/wNX9MH9K/imagen-2025-04-30-183938820.png|REMOVEDOR DE MOTAS SN-9911|Recargable con cable tipo c. \nIncluye repuesto\nColor: Rosado y Azul.|49.900.|39.900|2 Meses|1|belleza
+5|https://i.ibb.co/zVmGjtsV/imagen-2025-04-30-184430005.png|VAPORIZADOR FACIAL BY1078|Rosado & Morado|54.900.|47.900|3 Meses|1|belleza
+6|https://i.ibb.co/8gTv1DGf/imagen-2025-04-30-184656723.png|VAPORIZADOR FACIAL YL-882|-Capacidad: 20 ml\n-Recargable USB||19.900|15 Días|1|belleza
+7|https://i.ibb.co/V8LSKWb/imagen-2025-05-01-102545248.png|MASAJEADOR FACIAL 5 EN 1 AE-8782|Posee 5 cabezales intercambiables.\n-Bateria AA (NO INCLUYE)|29.900|21.900|1 Mes|1|belleza
+8|https://i.ibb.co/0VDYn33X/imagen-2025-05-01-103017567.png|RODILLO FACIAL ICE NN-005|-Posee capsulas de gel que contiene frío, el cual se activa cuando se ingresa al refrigerador.|28.900|19.900|No tiene garantia|1|belleza
+9|https://i.ibb.co/HLJ8Q5cw/imagen-2025-05-01-103533327.png|REMOVEDOR DE CALLO LT-2030|Recargable tipo USB.\nIncluye 2 cabezales de rodillo.\nPosee 2 velocidades|39.900|31.900|1 Mes|1|belleza
+10|https://i.ibb.co/hFFSyCJM/imagen-2025-05-01-103834284.png|REMOVEDOR ELÈCTRICO DE CALLOS GH-99|Motor potente con control de velocidad alrededor de 600rpm\nIncluye 60 discos de lijado de repuesto.|69.900|59.900|3 Meses|1|belleza
+11|https://i.ibb.co/93W3Gr35/imagen-2025-05-01-125835859.png|Espejo con luz LED XR-8809|Carga a través del cable USB.\nTipo de luz: Calida y fria||34.900|1 Mes|1|belleza
+12|https://i.ibb.co/Z6xXJvS3/imagen-2025-05-01-130016549.png|TRIMMER PARA DAMA 2 EN 1 GM3136|Posee 2 cabezales intercambiables\nPotencia: 2W\nRecargable USB.|38.000|31.900|1 Mes|1|belleza

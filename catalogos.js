@@ -2,6 +2,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const productsContainer = document.getElementById('products-container');
     const searchInput = document.getElementById('search');
     const filterSelect = document.getElementById('filter');
+    const categoryFilter = document.getElementById('category-filter');
 
     // Función para cargar y procesar el archivo TXT
     async function loadProducts() {
@@ -21,26 +22,27 @@ document.addEventListener('DOMContentLoaded', function () {
         return txtData.split('\n')
             .filter(line => line.trim() !== '')
             .map(line => {
-                const [id, imagen, nombre, descripcion, precioOriginal, precioDescuento, garantia, estado] = line.split('|');
+                const parts = line.split('|');
+                const [id, imagen, nombre, descripcion, precioOriginal, precioDescuento, garantia, estado, categoria] = parts.map(part => part.trim());
                 
                 return {
-                    id: id.trim(),
-                    imagen: imagen.trim(),
-                    nombre: nombre.trim(),
-                    descripcion: descripcion.trim().replace(/\\n/g, '<br>'), // Convierte \n en <br>
-                    precioOriginal: precioOriginal.trim(),
-                    precioDescuento: precioDescuento.trim(),
-                    garantia: garantia.trim(),
-                    estado: estado.trim() === '1'
+                    id,
+                    imagen,
+                    nombre,
+                    descripcion: descripcion.replace(/\\n/g, '<br>'),
+                    precioOriginal,
+                    precioDescuento,
+                    garantia,
+                    estado: estado === '1',
+                    categoria: categoria.toLowerCase()
                 };
             });
     }
-    
 
     // Función para mostrar los productos
     function displayProducts(products) {
         productsContainer.innerHTML = products.map(product => `
-            <div class="product-card" data-status="${product.estado ? '1' : '0'}">
+            <div class="product-card" data-status="${product.estado ? '1' : '0'}" data-category="${product.categoria}">
                 <div class="product-image">
                     <img src="${product.imagen}" 
                     alt="${product.nombre}"
@@ -58,11 +60,13 @@ document.addEventListener('DOMContentLoaded', function () {
                         <div>                             
                             ${product.precioOriginal ? `<span class="original-price">$${product.precioOriginal}</span>` : ''}
                             <span class="discount-price">$${product.precioDescuento}</span>
-
                         </div>
                         <span class="product-status ${product.estado ? 'status-available' : 'status-unavailable'}">
                             ${product.estado ? 'Disponible' : 'Agotado'}
                         </span>
+                    </div>
+                    <div class="product-category">
+                        <span class="category-tag">${product.categoria.toUpperCase()}</span>
                     </div>
                 </div>
             </div>
@@ -74,15 +78,21 @@ document.addEventListener('DOMContentLoaded', function () {
         function filterProducts() {
             const searchTerm = searchInput.value.toLowerCase();
             const filterValue = filterSelect.value;
+            const categoryValue = categoryFilter.value;
 
             const filtered = products.filter(product => {
                 const matchesSearch = product.nombre.toLowerCase().includes(searchTerm) ||
-                    product.descripcion.toLowerCase().includes(searchTerm);
+                    product.descripcion.toLowerCase().includes(searchTerm) ||
+                    product.categoria.toLowerCase().includes(searchTerm);
+                
                 const matchesFilter = filterValue === 'all' ||
                     (filterValue === '1' && product.estado) ||
                     (filterValue === '0' && !product.estado);
+                
+                const matchesCategory = categoryValue === 'all' ||
+                    product.categoria === categoryValue;
 
-                return matchesSearch && matchesFilter;
+                return matchesSearch && matchesFilter && matchesCategory;
             });
 
             displayProducts(filtered);
@@ -90,6 +100,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         searchInput.addEventListener('input', filterProducts);
         filterSelect.addEventListener('change', filterProducts);
+        categoryFilter.addEventListener('change', filterProducts);
     }
 
     // Iniciar la carga de productos
