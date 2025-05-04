@@ -1,6 +1,6 @@
 1|https://i.ibb.co/B5LhXsHS/imagen-2025-04-30-173902528.png|ANTENA TX|Cable: 1.47m \nMedida: ALTO 20CM \n"PRESENTACIÓN EN BOLSA"|8.900|6.900|No tiene garantia|1|antenas
 2|https://i.ibb.co/KzQpPNP2/imagen-2025-04-30-175801932.png|EXTRACTOR DE LECHE ELÉCTRICO BZ-8003|Posee 3 modos: Masaje, lactancia y succión.\n-Niveles de fuerza: 9 ajustables. \nRecargable USB. \nIncluye chupo para tetero. \nColores: Rosado y azul|74.900|59.900|3 Meses|1|belleza
-3|https://i.ibb.co/nNs8J4q7/imagen-2025-04-30-180211138.png|BASE DE CEPILLO DE DIENTES JX-5588|-Ideal para organizar los cepillos de diente.\n-Dispensa crema.\n-Esteriliza los cepillos.\n-Recargable USB.||34.900|No tiene garantia|1|belleza
+3|https://i.ibb.co/nNs8J4q7/imagen-2025-04-30-180211138.png|BASE DE CEPILLO DE DIENTES JX-5588|-Ideal para organizar los cepillos de diente.\n-Dispensa crema.\n-Esteriliza los cepillos.\n-Recargable USB.||28.900|No tiene garantia|1|belleza
 4|https://i.ibb.co/wNX9MH9K/imagen-2025-04-30-183938820.png|REMOVEDOR DE MOTAS SN-9911|Recargable con cable tipo c. \nIncluye repuesto\nColor: Rosado y Azul.|49.900.|39.900|2 Meses|1|belleza
 5|https://i.ibb.co/zVmGjtsV/imagen-2025-04-30-184430005.png|VAPORIZADOR FACIAL BY1078|Rosado & Morado|54.900.|47.900|3 Meses|1|belleza
 6|https://i.ibb.co/8gTv1DGf/imagen-2025-04-30-184656723.png|VAPORIZADOR FACIAL YL-882|-Capacidad: 20 ml\n-Recargable USB||19.900|15 Días|1|belleza
@@ -10,3 +10,40 @@
 10|https://i.ibb.co/hFFSyCJM/imagen-2025-05-01-103834284.png|REMOVEDOR ELÈCTRICO DE CALLOS GH-99|Motor potente con control de velocidad alrededor de 600rpm\nIncluye 60 discos de lijado de repuesto.|69.900|59.900|3 Meses|1|belleza
 11|https://i.ibb.co/93W3Gr35/imagen-2025-05-01-125835859.png|Espejo con luz LED XR-8809|Carga a través del cable USB.\nTipo de luz: Calida y fria||34.900|1 Mes|1|belleza
 12|https://i.ibb.co/Z6xXJvS3/imagen-2025-05-01-130016549.png|TRIMMER PARA DAMA 2 EN 1 GM3136|Posee 2 cabezales intercambiables\nPotencia: 2W\nRecargable USB.|38.000|31.900|1 Mes|1|belleza
+13|https://i.ibb.co/7dgFTMLb/imagen-2025-05-01-130108900.png|DEPILADORA PARA MUJER GEMEI 4 EN 1 GM7006|Tiempo de carga: 8 horas.\nTiempo de uso: 45 min.\n1 velocidad.\nUso en seco.|72.900|69900|3 Meses|1|belleza
+14|https://i.ibb.co/VW8P2bDg/imagen-2025-05-01-130204168.png|DEPILADORA PARA MUJER GEMEI 5 EN 1 GM7003|Tiempo de carga: 2 horas.\nTiempo de uso: 90 min.\n2 velocidades.\nUso en seco.||93.900|3 Meses|1|belleza
+16|https://i.ibb.co/PshJzFz9/imagen-2025-05-01-130237596.png|DEPILADORA PARA MUJER VGR 6 EN 1 V733|Cabeza depiladora\nRecortador de vello facial\nCabezal de limpieza facial\nCabezal de afeitado y masaje\nRemovedor de callos\nColores: verde menta y rosado.|99.900|89.900|3 Meses|1|belleza
+17|https://i.ibb.co/4R4tVJ9H/imagen-2025-05-01-130331411.png|LAMPARA DE UÑAS CON SOPORTE PARA CELULAR Z9|57 LED\nTemporizador\nPantalla digital.|65.900|54.900|3 Meses|1|belleza
+18|https://i.ibb.co/gFvxY68p/imagen-2025-05-01-130409536.png|LAMPARA DE UÑAS 54W SUNX|Potencia: 54W\nAjuste de temporizador: 10s, 30s y 60s\nColores: Azul claro, rosado y plateado.|53.900|45.900|3 Meses|1|belleza
+19|https://i.ibb.co/ycNcrSCP/imagen-2025-05-01-130449530.png|LÁMPARA SECADOR DE UÑAS UV / LED UFO|72W\nAjustes del temporizador: 10s, 30s, 60s.|48.900|41.500|3 Meses|1|belleza
+20|https://i.ibb.co/fVp2S2FZ/imagen-2025-05-01-130709347.png|PULIDOR DE UÑAS ELÉCTRICO XW-022|Incluye 6 cabezas metalicas "diferentes" y 6 bandas de lijado.\nRosado,verde,azul, fucsia y negro.|37.900|30.900|1 Mes|1|belleza
+21|https://i.ibb.co/Ff5cNJm/imagen-2025-05-01-130745260.png|PULIDOR DE UÑAS ELÉCTRICO 106|Recargable USB\Posee una broca de porcelana en gel para uñas.||67.900|3 Meses|1|belleza
+22|https://i.ibb.co/KjLmPsD1/imagen-2025-05-01-130821699.png|PULIDOR DE UÑAS 208|Motor: 30000RPM\nPedal accionador\nColores: Rosado y blanco|109900|99.960|3 Meses|1|belleza
+23|https://i.ibb.co/39c1dT0v/imagen-2025-05-01-130853426.png|OLLA PARA CERA DEPILATORIA JG-117|Potencia: 100W\nColores: Blanco, rosado, morado,negro y verde.|35.900|29.900|3 Meses|1|belleza
+24|https://i.ibb.co/YBLCq7jf/imagen-2025-05-01-170953281.png|MASAJEADOR RELAX TONE MA-116|Incluye 5 cabezales.|41.900|38.900|3 Meses|1|belleza
+25|https://i.ibb.co/QvcF0qfN/imagen-2025-05-01-171107617.png|MASAJEADOR BODY INNOVATION SH118|Incluye 5 cabezales.\nPosee infrarrojo.||64.900|3 Meses|1|belleza
+26|https://i.ibb.co/6C5qZ08/imagen-2025-05-01-171138633.png|RIZADOR PRONOVA NHC-8558||25.900|19.900|1 Mes|1|belleza
+27|https://i.ibb.co/xqVd3JHQ/imagen-2025-05-01-171215199.png|RIZADOR REMLNGTON RE-2072|Potencia: 50W\nTemperatura: 180°C y 210°C\nNEGRO & BLANCO|45.000|39.900|2 Meses|1|belleza
+
+
+
+
+
+266|https://i.ibb.co/60tST7WW/imagen-2025-05-01-190102659.png|SOPORTE DE BRAZO GRANDE 32"-60" / P40|||54.000|GARANTIA POR DEFECTOS DE FABRICA|1|Bases TV
+267|https://i.ibb.co/BHtS0jtk/imagen-2025-05-01-190134356.png|SOPORTE DE DOBLE BRAZO 32"-75" / P5|||79.000|GARANTIA POR DEFECTOS DE FABRICA|1|Bases TV
+268|https://i.ibb.co/PsWZjmkS/imagen-2025-05-01-190147789.png|SOPORTE DE DOBLE BRAZO 40"-80" / P6 ||115.000|109.900|GARANTIA POR DEFECTOS DE FABRICA|1|Bases TV
+269|https://i.ibb.co/gLpzrtWk/imagen-2025-05-01-190201823.png|SOPORTE DE TECHO 25"-55"/ 076-2||63.000|59.900|GARANTIA POR DEFECTOS DE FABRICA|1|Bases TV
+270|https://i.ibb.co/QR6T2tH/imagen-2025-05-01-190216178.png|SOPORTE DE TECHO 32"-70" / NBT560-15|||84.900|GARANTIA POR DEFECTOS DE FABRICA|1|Bases TV
+271|https://i.ibb.co/YF9Mcg9S/imagen-2025-05-01-190238887.png|SOPORTE PEDESTAL 32”- 70” / 1500 |(RECOMENDACIÓN SOLO HASTA 58")|199.900|184.900|GARANTIA POR DEFECTOS DE FABRICA|1|Bases TV
+272|https://i.ibb.co/k60wbQBn/imagen-2025-05-01-190253768.png|GLOBO LEVITADOR ZL-A012W1201|Funciona a la corriente 110v\nDebida a la tecnología de levitación magnética puede flotar en el aire y girar 360 grados, cuando la base este encendida la luz dentro de la bola puede cambiar a diferentes colores automáticamente|299.900|279.900|6 Meses|1|Tecnologia
+273|https://i.ibb.co/LXrxh4c6/imagen-2025-05-01-190305667.png|BARRA LED RGB DW-SNFW-LD02 |Sensor de sonido de ritmo (El teléfono en altavoz debe estar a 10 cm del sensor).\n Adaptador plug \n Potencia: 8W \n Alimentación 110V \n Control remoto (Alcance máximo de 5 metros).\n Descarga la aplicaciòn en el celular para controlar la barra.|99.900|92.900|3 Meses|1|Tecnologia
+274|https://i.ibb.co/0y9BpXtJ/imagen-2025-05-01-190317975.png|MICROFONO ALAMBRICO SM58-LC|CABLE 5M|93.000|89.900|3 Meses|1|Microfonos
+275|https://i.ibb.co/whC233Y7/imagen-2025-05-01-190337876.png|MICROFONO ALAMBRICO BETA57A|CABLE 5M|93.000|89.900|3 Meses|1|Microfonos
+276|https://i.ibb.co/rKRTSrnT/imagen-2025-05-01-190357100.png|MICROFONO ALAMBRICO BETA58A|CABLE 5M|93.000|89.900|3 Meses|1|Microfonos
+277|https://i.ibb.co/h1XH1W2Y/imagen-2025-05-01-190409510.png|MICROFONO ALAMBRICO SM58-SK|CABLE 5M \n Con interruptor de encendido|93.000|89.900|3 Meses|1|Microfonos
+278|https://i.ibb.co/gFPCTnqn/imagen-2025-05-01-190431837.png|MICROFONO INALAMBRICO WG-100|Frecuencia: 500 - 850 MHz||74.900| 3 Meses|1|Microfonos
+279|https://i.ibb.co/MkKSrdBF/imagen-2025-05-01-190444446.png|TRIPODE PARA MICROFONO WD-901| Medidas:\nAltura máxima 1.75M\nAltura Mínima 90cm|73.000|67.900|No tiene garantia|1|Microfonos
+
+
+
+
