@@ -3,6 +3,19 @@ document.addEventListener('DOMContentLoaded', function () {
     const searchInput = document.getElementById('search');
     const filterSelect = document.getElementById('filter');
     const categoryFilter = document.getElementById('category-filter');
+    const imageModal = document.getElementById('imageModal');
+    const closeModal = document.querySelector('.close-modal');
+
+    // Configurar el modal de imagen
+    closeModal.addEventListener('click', () => {
+        imageModal.style.display = 'none';
+    });
+
+    window.addEventListener('click', (event) => {
+        if (event.target === imageModal) {
+            imageModal.style.display = 'none';
+        }
+    });
 
     // Función para cargar y procesar el archivo TXT
     async function loadProducts() {
@@ -68,6 +81,14 @@ document.addEventListener('DOMContentLoaded', function () {
                     <div class="product-category">
                         <span class="category-tag">${product.categoria.toUpperCase()}</span>
                     </div>
+                    <div class="product-actions">
+                        <button class="btn-view" onclick="showImageModal('${product.imagen}')">
+                            <i class="fas fa-search"></i> Ver más
+                        </button>
+                        <button class="btn-order" onclick="orderProduct('${product.nombre}', '${product.precioDescuento}', '${product.categoria}')" ${!product.estado ? 'disabled' : ''}>
+                            <i class="fab fa-whatsapp"></i> Pedir
+                        </button>
+                    </div>
                 </div>
             </div>
         `).join('');
@@ -106,3 +127,22 @@ document.addEventListener('DOMContentLoaded', function () {
     // Iniciar la carga de productos
     loadProducts();
 });
+
+// Función para mostrar el modal con la imagen ampliada
+function showImageModal(imageUrl) {
+    const modal = document.getElementById('imageModal');
+    const modalImg = document.getElementById('modalImage');
+    
+    modal.style.display = 'block';
+    modalImg.src = imageUrl;
+}
+
+// Función para enviar mensaje por WhatsApp
+function orderProduct(productName, price, category) {
+    const phoneNumber = '3223890477';
+    const message = `¡Hola! Estoy interesado en el producto:\n\n*${productName}*\n\nPrecio: $${price}\nCategoría: ${category.toUpperCase()}\n\nPor favor, indíqueme disponibilidad y formas de pago.`;
+    const encodedMessage = encodeURIComponent(message);
+    const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodedMessage}`;
+    
+    window.open(whatsappUrl, '_blank');
+}
