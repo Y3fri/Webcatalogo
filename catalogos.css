@@ -435,49 +435,55 @@ footer {
     gap: 10px;
     margin-top: 15px;
 }
-
+/* Estilo mejorado para el botón de vista */
 .btn-view {
-    background-color: #3498db;
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+    width: 40px;
+    height: 40px;
+    background-color: rgba(52, 152, 219, 0.9);
     color: white;
-    padding: 8px 15px;
     border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    font-weight: bold;
+    border-radius: 50%;
     display: flex;
     align-items: center;
-    gap: 5px;
-    transition: all 0.3s;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    z-index: 2;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
 .btn-view:hover {
-    background-color: #2980b9;
+    background-color: rgba(41, 128, 185, 0.9);
+    transform: scale(1.1);
 }
 
-.btn-order {
-    background-color: #2ecc71;
+.btn-view i {
+    font-size: 16px;
+}
+
+/* Tooltip para el botón */
+.btn-view .tooltip {
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333;
     color: white;
-    padding: 8px 15px;
-    border: none;
+    padding: 5px 10px;
     border-radius: 4px;
-    cursor: pointer;
-    font-weight: bold;
-    display: flex;
-    align-items: center;
-    gap: 5px;
-    transition: all 0.3s;
+    font-size: 12px;
+    white-space: nowrap;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+    margin-bottom: 10px;
 }
 
-.btn-order:hover {
-    background-color: #27ae60;
-}
-
-.btn-order:disabled {
-    background-color: #95a5a6;
-    cursor: not-allowed;
-    opacity: 0.7;
-}
-
-.btn-view i, .btn-order i {
-    font-size: 14px;
+.btn-view:hover .tooltip {
+    opacity: 1;
+    visibility: visible;
+    margin-bottom: 5px;
 }

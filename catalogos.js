@@ -61,6 +61,9 @@ document.addEventListener('DOMContentLoaded', function () {
                     alt="${product.nombre}"
                     onerror="this.src='https://static.vecteezy.com/system/resources/previews/004/726/030/non_2x/warning-upload-error-icon-with-cloud-vector.jpg'">
                     ${product.estado ? '<span class="product-badge">Disponible</span>' : '<span class="product-badge" style="background-color: var(--gray)">Agotado</span>'}
+                    <button class="btn-view" onclick="showImageModal('${product.imagen}')">
+                            <i class="fas fa-eye"></i>
+                        </button>
                 </div>
                 <div class="product-info">
                     <h3 class="product-title">${product.nombre}</h3>
@@ -82,9 +85,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         <span class="category-tag">${product.categoria.toUpperCase()}</span>
                     </div>
                     <div class="product-actions">
-                        <button class="btn-view" onclick="showImageModal('${product.imagen}')">
-                            <i class="fas fa-search"></i> Ver más
-                        </button>
+                        
                         <button class="btn-order" onclick="orderProduct('${product.nombre}', '${product.precioDescuento}', '${product.categoria}')" ${!product.estado ? 'disabled' : ''}>
                             <i class="fab fa-whatsapp"></i> Pedir
                         </button>
