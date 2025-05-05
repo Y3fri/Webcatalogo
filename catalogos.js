@@ -139,7 +139,7 @@ function showImageModal(imageUrl) {
 
 // Función para enviar mensaje por WhatsApp
 function orderProduct(productName, price, category) {
-    const phoneNumber = '3223890477';
+    const phoneNumber = '+57 3223890477';
     const message = `¡Hola! Estoy interesado en el producto:\n\n*${productName}*\n\nPrecio: $${price}\nCategoría: ${category.toUpperCase()}\n\nPor favor, indíqueme disponibilidad y formas de pago.`;
     const encodedMessage = encodeURIComponent(message);
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodedMessage}`;
