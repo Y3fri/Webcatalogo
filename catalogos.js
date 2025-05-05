@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function () {
             .map(line => {
                 const parts = line.split('|');
                 const [id, imagen, nombre, descripcion, precioOriginal, precioDescuento, garantia, estado, categoria] = parts.map(part => part.trim());
-                
+
                 return {
                     id,
                     imagen,
@@ -49,7 +49,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     estado: estado === '1',
                     categoria: categoria.toLowerCase()
                 };
-            });
+            })
+            .filter(product => product.estado);
     }
 
     // Función para mostrar los productos
@@ -99,30 +100,25 @@ document.addEventListener('DOMContentLoaded', function () {
     function setupSearchFilter(products) {
         function filterProducts() {
             const searchTerm = searchInput.value.toLowerCase();
-            const filterValue = filterSelect.value;
-            const categoryValue = categoryFilter.value;
+            const activeChip = document.querySelector('.category-chip.active');
+            const categoryValue = activeChip ? activeChip.getAttribute('data-category') : 'all';
 
             const filtered = products.filter(product => {
                 const matchesSearch = product.nombre.toLowerCase().includes(searchTerm) ||
                     product.descripcion.toLowerCase().includes(searchTerm) ||
                     product.categoria.toLowerCase().includes(searchTerm);
-                
-                const matchesFilter = filterValue === 'all' ||
-                    (filterValue === '1' && product.estado) ||
-                    (filterValue === '0' && !product.estado);
-                
+
                 const matchesCategory = categoryValue === 'all' ||
                     product.categoria === categoryValue;
 
-                return matchesSearch && matchesFilter && matchesCategory;
+                return matchesSearch && matchesCategory;
             });
 
             displayProducts(filtered);
         }
 
         searchInput.addEventListener('input', filterProducts);
-        filterSelect.addEventListener('change', filterProducts);
-        categoryFilter.addEventListener('change', filterProducts);
+        document.addEventListener('categoryChanged', filterProducts);
     }
 
     // Iniciar la carga de productos
@@ -133,7 +129,7 @@ document.addEventListener('DOMContentLoaded', function () {
 function showImageModal(imageUrl) {
     const modal = document.getElementById('imageModal');
     const modalImg = document.getElementById('modalImage');
-    
+
     modal.style.display = 'block';
     modalImg.src = imageUrl;
 }
@@ -155,6 +151,71 @@ function orderProduct(productName, price, category) {
 ¡Gracias! 🙌`;
     const encodedMessage = encodeURIComponent(message);
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodedMessage}`;
-    
+
     window.open(whatsappUrl, '_blank');
 }
+
+document.addEventListener('DOMContentLoaded', function() {
+    const chips = document.querySelectorAll('.category-chip');
+    
+    chips.forEach(chip => {
+        chip.addEventListener('click', function() {
+            // Remover clase active de todos los chips
+            chips.forEach(c => c.classList.remove('active'));
+            
+            // Agregar clase active al chip clickeado
+            this.classList.add('active');
+            
+            // Obtener la categoría seleccionada
+            const selectedCategory = this.getAttribute('data-category');
+            
+            // Disparar evento de cambio de categoría
+            const event = new CustomEvent('categoryChanged', {
+                detail: { category: selectedCategory }
+            });
+            document.dispatchEvent(event);
+        });
+    });
+});
+
+document.addEventListener('DOMContentLoaded', function() {
+    const chipsContainer = document.querySelector('.category-chips');
+    const scrollLeftBtn = document.querySelector('.scroll-button.left');
+    const scrollRightBtn = document.querySelector('.scroll-button.right');
+    
+    // Manejar el scroll con botones
+    scrollLeftBtn.addEventListener('click', () => {
+        chipsContainer.scrollBy({ left: -200, behavior: 'smooth' });
+    });
+    
+    scrollRightBtn.addEventListener('click', () => {
+        chipsContainer.scrollBy({ left: 200, behavior: 'smooth' });
+    });
+    
+    // Manejar el scroll con rueda del ratón
+    chipsContainer.addEventListener('wheel', (e) => {
+        e.preventDefault();
+        chipsContainer.scrollBy({ left: e.deltaY < 0 ? -100 : 100, behavior: 'smooth' });
+    });
+    
+    // Actualizar visibilidad de botones según scroll
+    chipsContainer.addEventListener('scroll', updateScrollButtons);
+    
+    function updateScrollButtons() {
+        const maxScrollLeft = chipsContainer.scrollWidth - chipsContainer.clientWidth;
+        
+        scrollLeftBtn.disabled = chipsContainer.scrollLeft <= 0;
+        scrollRightBtn.disabled = chipsContainer.scrollLeft >= maxScrollLeft - 1;
+    }
+    
+    // Inicializar estado de botones
+    updateScrollButtons();
+    
+    // Manejar clic en chips
+    document.querySelectorAll('.category-chip').forEach(chip => {
+        chip.addEventListener('click', function() {
+            document.querySelector('.category-chip.active').classList.remove('active');
+            this.classList.add('active');
+        });
+    });
+});

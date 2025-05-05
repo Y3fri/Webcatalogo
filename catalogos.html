@@ -14,24 +14,23 @@
             <div class="search-filter">
                 <input type="text" id="search" placeholder="Buscar productos...">
                 <div class="filter-group">
-                    <select id="filter">
-                        <option value="all">Todos</option>
-                        <option value="1">Disponibles</option>
-                        <option value="0">No disponibles</option>
-                    </select>
-                    <select id="category-filter">
-                        <option value="all">Todas las categorías</option>
-                        <option value="antenas">Antenas</option>
-                        <option value="belleza">Belleza</option>
-                        <option value="maquinas de afeitar">Máquinas de afeitar</option>
-                        <option value="linternas">Linternas</option>
-                        <option value="cocina">Cocina</option>
-                        <option value="paneles solares">Paneles solares</option>
-                        <option value="microfonos">Micrófonos</option>
-                        <option value="tecnologia">Tecnología</option>
-                        <option value="ventiladores">Ventiladores</option>
-                        <option value="bases tv">Bases TV</option>
-                    </select>
+                    <div class="category-chips-container">
+                        <button class="scroll-button left" aria-label="Scroll left">‹</button>
+                        <div class="category-chips" id="category-chips">
+                            <div class="category-chip active" data-category="all">Todas</div>
+                            <div class="category-chip" data-category="antenas">Antenas</div>
+                            <div class="category-chip" data-category="belleza">Belleza</div>
+                            <div class="category-chip" data-category="maquinas de afeitar">Afeitadoras</div>
+                            <div class="category-chip" data-category="linternas">Linternas</div>
+                            <div class="category-chip" data-category="cocina">Cocina</div>
+                            <div class="category-chip" data-category="paneles solares">Paneles Solares</div>
+                            <div class="category-chip" data-category="microfonos">Micrófonos</div>
+                            <div class="category-chip" data-category="tecnologia">Tecnología</div>
+                            <div class="category-chip" data-category="ventiladores">Ventiladores</div>
+                            <div class="category-chip" data-category="bases tv">Bases TV</div>
+                        </div>
+                        <button class="scroll-button right" aria-label="Scroll right">›</button>
+                    </div>
                 </div>
             </div>
         </div>
