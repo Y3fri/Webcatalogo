@@ -9,11 +9,11 @@
 9|https://i.ibb.co/TDC359Qj/imagen-2025-05-01-103533327.png|REMOVEDOR DE CALLO LT-2030|Recargable tipo USB.\nIncluye 2 cabezales de rodillo.\nPosee 2 velocidades|39.900|31.900|1 Mes|1|belleza
 10|https://i.ibb.co/CKKfzW3t/imagen-2025-05-01-103834284.png|REMOVEDOR ELÈCTRICO DE CALLOS GH-99|Motor potente con control de velocidad alrededor de 600rpm\nIncluye 60 discos de lijado de repuesto.|69.900|59.900|3 Meses|1|belleza
 11|https://i.ibb.co/cXQXxrXn/imagen-2025-05-01-125835859.png|Espejo con luz LED XR-8809|Carga a través del cable USB.\nTipo de luz: Calida y fria||34.900|1 Mes|1|belleza
-12|https://i.ibb.co/RkhWMrd7/imagen-2025-05-01-130108900.png|TRIMMER PARA DAMA 2 EN 1 GM3136|Posee 2 cabezales intercambiables\nPotencia: 2W\nRecargable USB.|38.000|31.900|1 Mes|1|belleza
-13|https://i.ibb.co/mC7M6dt9/imagen-2025-05-01-130204168.png|DEPILADORA PARA MUJER GEMEI 4 EN 1 GM7006|Tiempo de carga: 8 horas.\nTiempo de uso: 45 min.\n1 velocidad.\nUso en seco.|72.900|69900|3 Meses|1|belleza
-14|https://i.ibb.co/twsnPQPx/imagen-2025-05-01-130237596.png|DEPILADORA PARA MUJER GEMEI 5 EN 1 GM7003|Tiempo de carga: 2 horas.\nTiempo de uso: 90 min.\n2 velocidades.\nUso en seco.||93.900|3 Meses|1|belleza
-16|https://i.ibb.co/jk3frHBS/imagen-2025-05-01-130331411.png|DEPILADORA PARA MUJER VGR 6 EN 1 V733|Cabeza depiladora\nRecortador de vello facial\nCabezal de limpieza facial\nCabezal de afeitado y masaje\nRemovedor de callos\nColores: verde menta y rosado.|99.900|89.900|3 Meses|1|belleza
-17|https://i.ibb.co/Nn1MR7qP/imagen-2025-05-01-130409536.png|LAMPARA DE UÑAS CON SOPORTE PARA CELULAR Z9|57 LED\nTemporizador\nPantalla digital.|65.900|54.900|3 Meses|1|belleza
+12|https://i.ibb.co/qMpjnhCz/imagen-2025-05-01-130016549.png|TRIMMER PARA DAMA 2 EN 1 GM3136|Posee 2 cabezales intercambiables\nPotencia: 2W\nRecargable USB.|38.000|31.900|1 Mes|1|belleza
+13|https://i.ibb.co/RkhWMrd7/imagen-2025-05-01-130108900.png|DEPILADORA PARA MUJER GEMEI 4 EN 1 GM7006|Tiempo de carga: 8 horas.\nTiempo de uso: 45 min.\n1 velocidad.\nUso en seco.|72.900|69.900|3 Meses|1|belleza
+14|https://i.ibb.co/mC7M6dt9/imagen-2025-05-01-130204168.png|DEPILADORA PARA MUJER GEMEI 5 EN 1 GM7003|Tiempo de carga: 2 horas.\nTiempo de uso: 90 min.\n2 velocidades.\nUso en seco.||93.900|3 Meses|1|belleza
+16|https://i.ibb.co/twsnPQPx/imagen-2025-05-01-130237596.png|DEPILADORA PARA MUJER VGR 6 EN 1 V733|Cabeza depiladora\nRecortador de vello facial\nCabezal de limpieza facial\nCabezal de afeitado y masaje\nRemovedor de callos\nColores: verde menta y rosado.|99.900|89.900|3 Meses|1|belleza
+17|https://i.ibb.co/jk3frHBS/imagen-2025-05-01-130331411.png|LAMPARA DE UÑAS CON SOPORTE PARA CELULAR Z9|57 LED\nTemporizador\nPantalla digital.|65.900|54.900|3 Meses|1|belleza
 18|https://i.ibb.co/Nn1MR7qP/imagen-2025-05-01-130409536.png|LAMPARA DE UÑAS 54W SUNX|Potencia: 54W\nAjuste de temporizador: 10s, 30s y 60s\nColores: Azul claro, rosado y plateado.|53.900|45.900|3 Meses|1|belleza
 19|https://i.ibb.co/B5f59NJ3/imagen-2025-05-01-130449530.png|LÁMPARA SECADOR DE UÑAS UV / LED UFO|72W\nAjustes del temporizador: 10s, 30s, 60s.|48.900|41.500|3 Meses|1|belleza
 20|https://i.ibb.co/LDt8P8RB/imagen-2025-05-01-130709347.png|PULIDOR DE UÑAS ELÉCTRICO XW-022|Incluye 6 cabezas metalicas "diferentes" y 6 bandas de lijado.\nRosado,verde,azul, fucsia y negro.|37.900|30.900|1 Mes|1|belleza
@@ -24,8 +24,103 @@
 25|https://i.ibb.co/3msyK87N/imagen-2025-05-01-171107617.png|MASAJEADOR BODY INNOVATION SH118|Incluye 5 cabezales.\nPosee infrarrojo.||64.900|3 Meses|1|belleza
 26|https://i.ibb.co/nJSK0MB/imagen-2025-05-01-171138633.png|RIZADOR PRONOVA NHC-8558||25.900|19.900|1 Mes|1|belleza
 27|https://i.ibb.co/r2nNv4sJ/imagen-2025-05-01-171215199.png|RIZADOR REMLNGTON RE-2072|Potencia: 50W\nTemperatura: 180°C y 210°C\nNEGRO & BLANCO|45.000|39.900|2 Meses|1|belleza
-
-
+28|https://i.ibb.co/SCv7m1P/imagen-2025-05-01-171405687.png|PINZA REMLNGTON RE-2071|Barril de 25mm|49.000|41.900|2 Meses|1|belleza
+29|https://i.ibb.co/KcN6mqL4/imagen-2025-05-01-171439001.png|Rizador Ondulador 3 Tubos PRONOVA PRO-830|Diámetro del barril: 25mm\nPotencia:70W\nTemperatura:170°C y 220°C|72.000|64.900|3 Meses|1|belleza
+30|https://i.ibb.co/ymxCw0vL/imagen-2025-05-01-171456209.png|Rizador Ondulador 3 Tubos REMNLMGTON RE-9630|Diámetro del barril: 25mm\nPotencia:70W\nTemperatura:180C y 210C\nColor:Dorada y rosada|82.000|79.900|3 Meses|1|belleza
+31|https://i.ibb.co/XxdgXcVC/imagen-2025-05-01-171530671.png|MINI PLANCHA 2017|Temperatura: 160°C\nColores: Verde menta, azul, rosado, morado y blanca.||10.900|1 Mes|1|belleza
+32|https://i.ibb.co/HLPBCK0b/imagen-2025-05-01-171555354.png|PLANCHA INOVA MINI ANCHA SX-8006|Temperatura: 150°C\nColores: Rosado y morado.|20.000|16.900|1 Mes|1|belleza
+33|https://i.ibb.co/pqRddD7/imagen-2025-05-01-171653170.png|PLANCHA REMILNGTON ANCHA RE-2081|Potencia: 45W\nControl temperatura: 160°C,180°C,200°C y 220°C\nColores: Rosada y roja.|38.000|30.900|1 Mes|1|belleza
+34|https://i.ibb.co/W4zDtctn/imagen-2025-05-01-171719423.png|PLANCHA REMILNGTON ANCHA RE-2077|Potencia: 45W\nControl temperatura: 160°C,180°C,200°C y 220°C\nColores: Dorada y negra|53.000|46.900|2 Meses|1|belleza
+35|https://i.ibb.co/RpwYYYKg/imagen-2025-05-01-171811594.png|PLANCHA NANO TITANIUM DE PLACA DELGADA 2091|Temperatura máxima: 450°F|64.000|59.900|3 Meses|1|belleza
+36|https://i.ibb.co/kVf9fK6v/imagen-2025-05-01-171833803.png|PLANCHA NANO TITANIUM DE PLACA ANCHA 2094|Temperatura máxima: 450°F||63.900|3 Meses|1|belleza
+37|https://i.ibb.co/390QdHSR/imagen-2025-05-01-171900204.png|PLANCHA NANO TITANIUM EN COMBO WR-901A|(PLANCHA , RIZADOR & PEINE)|66.000|60.900|3 Meses|1|belleza
+38|https://i.ibb.co/v6fgs1d5/imagen-2025-05-01-171929422.png|PLANCHA REMINGTON S9960|Placas Recubiertas de Cerámica infundida con aguacate y macadamia\nResultado brillante y suave\nTemperatura máxima: 230°C (450°F)||169.900|1 Año|1|belleza
+39|https://i.ibb.co/tpH1nNYq/imagen-2025-05-01-172000094.png|PLANCHA REMINGTON TRIPLE INFUSION S7740|Triple infusión: Keratina, aceite de argan y macadamia.\nCabello brillante y sedoso\nProtección contra la humedad|200.000|186.900|1 Año|1|belleza
+40|https://i.ibb.co/pr6VkVP3/imagen-2025-05-01-172124262.png|PLANCHA REMINGTON S8001|Exclusivos canales y difusores de vapor que permiten que se utilice en cabello húmedo o seco\nAjustes de Temperatura (+/-) con Temperatura máxima: 230°C (450°F)\nPlacas Flotantes Recubiertas de Turmalina y Cerámica\nApagado Automático\n3 veces protección y 3 veces más rápido.|210.000|189.9000|1 Año|1|belleza
+41|https://i.ibb.co/q3sHx0dv/imagen-2025-05-01-172150486.png|PLANCHA REMINGTON S8599|Placas Recubiertas de Cerámica infundida con aceite de Keratina y Argán\n◻Para un cabello 88% más liso, 82% menos frizz y 94% mas sedoso\nApagado Automático (60 minutos)\nPlacas flotantes\nCable Giratorio de 3 metros||193.900|1 Año|1|belleza
+42|https://i.ibb.co/7xJmJ3Jf/imagen-2025-05-01-172214464.png|PEINE SECADOR REIMEGOTON RE-9637|Potencia: 800W.\n3 velocidades (Alta, media y baja).\nBotón de golpe de frio.\nColor: Gris o Negro.|65.000|54.900|3 Meses|1|belleza
+43|https://i.ibb.co/nNKJRrZm/imagen-2025-05-01-172256911.png|SECADOR MINI PROBABYLISSCOCO PRO-888|Potencia: 1500W\nColores: Rosado y morado|32.000|25.000|1 Mes|1|belleza
+44|https://i.ibb.co/v6XCB1gK/imagen-2025-05-01-172327657.png|SECADOR MINI REMLGTON RE-2032|Potencia: 1200W\nColores: Blanco y rosado|28.000|21.000|1 Mes|1|belleza
+45|https://i.ibb.co/DfYys6nn/imagen-2025-05-01-172401141.png|SECADOR NOVA NV-9103|Potencia: 5000W|49.000|41.900|3 Meses|1|belleza
+46|https://i.ibb.co/xqgL36yy/imagen-2025-05-01-172424445.png|SECADOR GEMEI GM1780|Potencia: 3000W|63.900|59.900|3 Meses|1|belleza
+47|https://i.ibb.co/S4Mvv9t7/imagen-2025-05-01-172505977.png|SECADOR REMLNGTON RE-2052|Potencia: 3000w\n5 en 1||59.900|3 Meses|1|belleza
+48|https://i.ibb.co/mrK1fytP/imagen-2025-05-01-172528576.png|SECADOR REMLNGTON RE-20202|Potencia: 5000W\nColores: Blanco y rojo|66.000|61.900|3 Meses|1|belleza
+49|https://i.ibb.co/cKxD3bjb/imagen-2025-05-01-172557296.png|CEPILLO DE AIRE REMINGTON AS21A|Perfecto para cabello húmedo y seco\nBarril ovalado de 70 mm con cerdas mixtas para mayor versatilidad y resultados suaves de salón\n1200 W\n2 niveles de temperatura\n2 niveles de velocidad\nRáfaga de aire frío\nCabezal removible|260.000|229.900|1 Año|1|belleza
+50|https://i.ibb.co/nMyRDGLz/imagen-2025-05-01-172629109.png|SECADOR REMINGTON D3190|3 ajustes de Temperatura\n2 velocidades\nBotón de Aire Frío\nFiltro de Aire Removible\nRejilla Delantera infundida de Cerámica, Iones y Turmalina\nGancho para colgar\n1875-2000 Watts|200.000|164.900|1 Año|1|belleza
+51|https://i.ibb.co/NhMrnx8/imagen-2025-05-01-172658238.png|Secador Remington Aguacate y Macadamia D13A|Rejilla de Cerámica con Micro acondicionadores de Aguacate y Macadamia\n3 ajustes de Temperatura y 2 velocidades\n1900 W|260.000|219.900|1 Año|1|belleza
+52|https://i.ibb.co/99TFSf1f/imagen-2025-05-01-172812902.png|PATILLERA GEMEI 2 EN 1 GM-3130|\nUso en seco\nRecargable|25.000|19.900|1 Mes|1|afeitadoras
+53|https://i.ibb.co/Zp1ZyDpf/imagen-2025-05-01-172936046.png|PATILLERA GEMEI 3 EN 1 GM-3107|Uso en seco\nRecargable||29.900|1 Mes|1|afeitadoras
+54|https://i.ibb.co/0pZcGZBP/imagen-2025-05-01-173010991.png|AFEITADORA 3 CABEZAS REMILMTON RE-2301|Potencia: 3W\nRecargable USB\nPosee repuesto de malla\nUso en seco|42.000|37.900|1 Mes|1|afeitadoras
+55|https://i.ibb.co/wNxCvk4G/imagen-2025-05-01-173032057.png|AFEITADORA 3 CABEZAS PT-960|\nPatillera incorporada\nPosee base\nUso en seco\nRecargable||53.900|3 Meses|1|afeitadoras
+56|https://i.ibb.co/5ZprZQY/imagen-2025-05-01-173053782.png|PATILLERA VGR V-965|4 Guías de corte (1.5/3/4.5/6 mm)\nPanel indicador de carga.\nPosee turbo\nTiempo de carga: 1.5 horas.\nBatería de litio 600mAh\nRecargable USB\Uso en seco|65.000|59.900|3 Meses|1|afeitadoras
+57|https://i.ibb.co/ycN332z0/imagen-2025-05-01-173126867.png|AFEITADORA 3 CABEZAS PT-996|Patillera incorporada\nPosee base\nUso en seco\nRecargable|60.000|55.900|3 Meses|1|afeitadoras
+58|https://i.ibb.co/7xJh9gdD/imagen-2025-05-01-173157661.png|AFEITADORA VGR V-332|Posee 3 velocidades.\nPatillera en la parte posterior de la máquina.\nIncluye cabezal de repuesto.\nPanel de indicador de carga.\nTiempo de carga: 2 horas.\nBatería de litio de 1200mAh.\nUso en seco\nCarga a través de cable USB.212|76.000|69.900|3 Meses|1|afeitadoras
+59|https://i.ibb.co/dqqnTqx/imagen-2025-05-01-173229393.png|PATILLERA GEEMY 3 EN 1 |Recargable\nPosee guía ajustable\nUso en seco|32.000|26.900|1 Mes|1|afeitadoras
+60|https://i.ibb.co/ns0fBvBV/imagen-2025-05-01-173355116.png|PATILLERA GEEMY GM-6589|Guías de corte: 6/9/12mm\nUso en seco\nRecargable||24.900|1 Mes|1|afeitadoras
+61|https://i.ibb.co/5gfHzTsG/imagen-2025-05-01-173425692.png|PATILLERA VGR V-079|Guías de corte: 1/1,5/2/3mm\nUso en seco\nRecargable USB\nInterruptor encendido/apagado(Giratorio).|68.000|61.900|1 Mes|1|afeitadoras
+62|https://i.ibb.co/S79HP95c/imagen-2025-05-01-173448865.png|PATILLERA VGR 5 EN 1 V-175|Guías de corte: 3/6/9/12mm\nPanel indicador de carga\nPosee base\nUso en seco\nRecargable|125.000|99.900|3 Meses|1|afeitadoras
+63|https://i.ibb.co/bRmgNW0Y/imagen-2025-05-01-173516238.png|KIT DE CORTE REMINGTON PG6125|Cortador de 30mm.\nPeine con 10 ajustes de longitud\n3 peines para vellos facial corto\nRecortadora lineal para la nariz y los oídos\nMini afeitadora de lámina\nBolso de almacenamiento.|199.000|179.900|3 Meses|1|afeitadoras
+64|https://i.ibb.co/b5syfzPG/imagen-2025-05-01-173542373.png|PELUQUERA VGR V-699|4 Guías de corte (1.5/3/4.5/6 mm)\nPanel indicador de carga.\nPosee turbo\nTiempo de carga: 1.5 horas.\nBatería de litio 600mAh\nRecargable USB\n-colores: Blanco y negro|76.900|69.900|3 Meses|1|afeitadoras
+65|https://i.ibb.co/MkZDnkKr/imagen-2025-05-01-173655000.png|PELUQUERA GEMEI RECARGABLE GM6567 (PLATEADA)|Panel de indicador de carga|85.900|79.900|3 Meses|1|afeitadoras
+66|https://i.ibb.co/5XSBDRqt/imagen-2025-05-01-173728690.png|PELUQUERA GEMEI RECARGABLE GM6567 (DORADA)|Panel de indicador de carga|85.900|79.900|3 Meses|1|afeitadoras
+67|https://i.ibb.co/XrQ1x3LC/imagen-2025-05-01-173807107.png|PELUQUERA GEMEI RECARGABLE GM-805 (VINOTINTO & NEGRO)|Panel de indicador de carga||79.900|3 Meses|1|afeitadoras
+68|https://i.ibb.co/nsnp8nTB/imagen-2025-05-01-173837878.png|PELUQUERA VGR V-697|Chuchilla en acero inoxidable.\n8 Guías de corte (1,5/3/4,5/6/10/13/16/19 mm)\nPanel de indicador de carga.\nTiempo de carga: 3 horas.\nBatería de litio de 2000mAh.\nCarga a través de cable USB.|110.000|99.900|3 Meses|1|afeitadoras
+69|https://i.ibb.co/KjPJFm5Q/imagen-2025-05-01-173909868.png|PELUQUERA VGR V280|Chuchilla en acero inoxidable.\n6 Guías de corte (1,5/3/4,5/6/10/13 mm)\nPanel de indicador de carga.\nTiempo de carga: 3 horas.\nBatería de litio de 2500mAh.\nCarga a través de cable USB.||95.900|3 Meses|1|afeitadoras
+70|https://i.ibb.co/WNDm8Dfb/imagen-2025-05-01-173940784.png|PELUQUERA DE PERRO GEEMY GM6063|Guías de corte.\nTijeras, lima y peinilla\nRecargable|84.900|79.900|3 Meses|1|afeitadoras
+71|https://i.ibb.co/Df0BXYVj/imagen-2025-05-01-174014919.png|CALEFACTOR 400W NFj03|ALTO :16CM|31.900|26.900|3 Meses|1|tecnologia
+72|https://i.ibb.co/bRdXf6DX/imagen-2025-05-01-174056677.png|CALEFACTOR KALLEY K-CA18|Potencia: 1500W - Alto: 24cm|116.000|107.900|1 Año|1|tecnologia
+73|https://i.ibb.co/bRKqv4r7/imagen-2025-05-01-174133146.png|BASCULA DIGITAL AGS-A9T|40 KG RECARGABLE (VERDE, AZUL Y BLANCA)||119.900|Sin garantía especificada|1|tecnologia
+74|https://i.ibb.co/PZ3DR3T1/imagen-2025-05-01-174223761.png|BATIDORA LA INDEPENDENCIA CX6612|120 watts\n5 velocidades\nBotón expulsor de batidores\n2 batidores y 2 amasadores|62.000|59.900|3 Meses|1|cocina
+75|https://i.ibb.co/S7KpyKqq/imagen-2025-05-01-174341513.png|BATIDORA DE INMERSION MNB-6625|Potencia: 500W\nMaxima capacidad para batir: 800ml\nColores: Blanca y negra|77.000|72.900|3 Meses|1|cocina
+76|https://i.ibb.co/3mqb9YSh/imagen-2025-05-01-174409344.png|OLLA BLACK+DECKER RC5200M|Capacidad 20 tazas\nRecipiente antiadherente\nLuces indicadoras\nFunción de mantener caliente\nIncluye accesorios|163.000|154.900|1 Año|1|cocina
+77|https://i.ibb.co/Rk8vd01k/imagen-2025-05-01-174433630.png|OLLA PRESIÓN MULTIFUNCIONAL BLACK DECKER PR100SD|6 litros\nCocción más rápida con 7 funciones de presión\n4 funciones sin presión\n9 sistemas de seguridad\nControles digitales\nReloj\nIncluye trébede, cuchara y taza medidora|420.000|374.900|1 Año|1|cocina
+78|https://i.ibb.co/Swng7HVm/imagen-2025-05-01-174502417.png|FREIDORA DE AIRE MANUAL OSTER CKSTAF401MDF|4L de capacidad\nRecubrimiento antiadherente\nControl manual\nCocina con 99% menos aceite\nPerilla ajustable hasta 200°C\nTemporizador hasta 60 minutos|330.900|298.900|1 Año|1|cocina
+79|https://i.ibb.co/pBQ2HQBP/imagen-2025-05-01-174606538.png|FREIDORA DE AIRE DIGITAL OSTER CKSTAF40WDDDF|4L de capacidad\nRecubrimiento antiadherente\nVentana y luz interna\n10 programas automáticos|499.900|444.900|1 Año|1|cocina
+80|https://i.ibb.co/TqrvzncG/imagen-2025-05-01-174623422.png|OLLA CORONA EN ALUMINIO 6 LITROS L22600|Capacidad: 6 litros|119.900|99.900|1 Año|1|cocina
+81|https://i.ibb.co/gLPsp7jS/imagen-2025-05-01-174639655.png|SELLADORA EMPACADORA AL VACIO YS002|Potencia: 90W\nIncluye bolsas para empacar al vacío\nVoltaje: 110V|31.000|24.900|3 Meses|1|cocina
+82|https://i.ibb.co/FbrVZfg6/imagen-2025-05-01-174716421.png|LONCHERA ELECTRICA ZR-001|Colores: Naranja, Verde, Rosada||75.900|2 Meses|1|cocina
+83|https://i.ibb.co/zHt7t28C/imagen-2025-05-01-174734299.png|HERVIDOR DE AGUA PLEGABLE LL2305-3|Potencia: 600W\nCapacidad: 0.6 litros|36.000|26.900|2 Meses|1|cocina
+84|https://i.ibb.co/N6L8bdBr/imagen-2025-05-01-174800968.png|HERVIDOR DE AGUA LA INDEPENDENCIA LLA 951|Potencia: 1000W\nCapacidad: 2L\nMaterial: Acero inoxidable\n110V|85.000|77.900|3 Meses|1|cocina
+85|https://i.ibb.co/tPpPYXWq/imagen-2025-05-01-174834726.png|MOLDE DESMONTABLE X3 ANTADHERENTE F-222426|Molde para tortas con figuras|39.900|35.900|3 Meses|1|cocina
+86|https://i.ibb.co/pjggNFT8/imagen-2025-05-01-174853836.png|DECORADOR DE PASTEL YG-13|Incluye 7 boquillas para decoración|30.000|24.900|Sin Garantía|1|cocina
+87|https://i.ibb.co/vrj04wW/imagen-2025-05-01-174911430.png|CUCHARA GOUGEGA DIGITAL HYC-08|Herramienta para pesar alimentos\nPeso máximo: 500g\nMaterial: ABS plástico\nPantalla LCD||17.900|1 Mes|1|cocina
+88|https://i.ibb.co/ynWM1nTp/imagen-2025-05-01-174928686.png|ESPUMADOR OD530|Para huevos, café, leche\nFunciona con 2 pilas AA (no incluidas)\nColores: Blanco y negro|12.000|9.900|Sin Garantía|1|cocina
+89|https://i.ibb.co/RpXbHBdF/imagen-2025-05-01-174952155.png|ESCURRIDOR PLEGABLE LL2305-10|Colores: Naranja, rojo, verde\nMaterial: Silicona y plástico\nMedidas: 26x39-60.5x13.5 cm|35.000|29.900|Sin Garantía|1|cocina
+90|https://i.ibb.co/hJfXLCsq/imagen-2025-05-01-175023816.png|SET DE UTENSILIOS CBT-2|12 piezas (10 siliconadas, 1 pinza, 1 base)\nMango de madera\nResistente al calor|46.000|39.900|Sin Garantía|1|cocina
+91|https://i.ibb.co/ZRkrCSKP/imagen-2025-05-01-175058882.png|SET DE UTENSILIOS CBT-6|12 piezas (10 antiadherentes, 1 pinza metálica, 1 base)\nMango de madera\nResistente al calor|50.000|42.900|Sin Garantía|1|cocina
+92|https://i.ibb.co/qY9YGWb3/imagen-2025-05-01-175128867.png|BOTELLA MULTIFUNCIONAL PARA MASCOTAS|Dispensador de agua y comida\nIncluye pala dispensadora y rollo de bolsas\nColores: Verde, turquesa y rosado||29.900|Sin Garantía|1|mascotas
+93|https://i.ibb.co/qYYLBNmG/imagen-2025-05-01-175148524.png|CEPILLO CON VAPOR PARA MASCOTAS|Elimina pelo con vapor\nTipo C\nColores: Blanco y café crema|12.000|10.400|Sin Garantía|1|mascotas
+94|https://i.ibb.co/B2hLZQ6K/imagen-2025-05-01-175224969.png|BANDEJA DE PAPEL DESECHABLE REDONDO FP-A|Paquete x 100 unidades\nMedidas: 160mm x 45mm\nPresentación en bolsa|24.900|19.900|Sin Garantía|1|cocina
+95|https://i.ibb.co/zhQXvTgL/imagen-2025-05-01-175243187.png|BANDEJA DE PAPEL DESECHABLE CUADRADO FP-B|Paquete x 100 unidades\nMedidas: 160mm x 45mm\nPresentación en bolsa|24.900|19.900|Sin Garantía|1|cocina
+97|https://i.ibb.co/N66CxHdG/imagen-2025-05-01-175259569.png|BANDEJA PROTECTORA EN SILICONA INDE24-176|Set x 3 unidades\nColores: azul celeste, rojo||11.900|Sin Garantía|1|cocina
+98|https://i.ibb.co/q3SVDsRr/imagen-2025-05-01-175322503.png|DISPENSADOR DE JABÓN ZH-500|Ideal para dosificar correctamente el jabón líquido.\nIncluye esponja.|19.900|14.900|Sin Garantía|1|cocina
+99|https://i.ibb.co/V0bXFcL3/imagen-2025-05-01-175344005.png|SET DE CONDIMENTEROS OT-108|Soporte de diseño giratorio,6 botellas de condimentos|37.900|31.900|Sin Garantía|1|cocina
+100|https://i.ibb.co/HpXgcKCw/imagen-2025-05-01-175412177.png|BOTELLA PARA ACEITE 2 EN 1 AAB072|Funciones: spray y chorro\nCapacidad: 600ml\nColor: Beige|29.900|24.900|Sin Garantía|1|cocina
+100|https://i.ibb.co/pBKPST97/imagen-2025-05-01-175432637.png|BASE PARA CUBIERTOS L2312-002|3 niveles con drenaje\nAlmacena cubiertos\nColores: Verde, blanco, gris|39.000|32.900|Sin Garantía|1|cocina
+101|https://i.ibb.co/VcQcqc0H/imagen-2025-05-01-175450844.png|ORGANIZADOR DE CUBIERTOS RETRACTIL I2312-004|8 compartimientos (5 fijos + 2 retráctiles)\nColores: Blanco, gris, negro\nPresentación en caja|50.000|44.900|Sin Garantía|1|cocina
+102|https://i.ibb.co/DhX9Sqs/imagen-2025-05-01-175507440.png|ORGANIZADOR PARA CAJONES TV-392|7 compartimientos (3 grandes + 2 medianos + 2 pequeños)\nMontaje versátil\nMaterial plástico color gris|39.900|34.900|Sin Garantía|1|cocina
+103|https://i.ibb.co/C3kGT0L1/imagen-2025-05-01-175533480.png|ESTANTE PARA HORNO MICROONDAS 73035|1 nivel\nMaterial: Plástico\nColores: Blanco y negro\nProtege el microondas|41.900|37.900|Sin Garantía|1|cocina
+104|https://i.ibb.co/fV80zm14/imagen-2025-05-01-175552884.png|ESCURRIDOR DE PLATOS PLEGABLES INDE24-083|Plegable para ahorrar espacio\nMaterial: Plástico\nColor: Blanco con gris|20.000|14.900|Sin Garantía|1|cocina
+105|https://i.ibb.co/fVCrzpJT/imagen-2025-05-01-175616142.png|ESCURRIDOR DE VAJILLA PARA MESON MJ-2042|Organiza vajilla y tablas de cortar\nColor: Negro|88.000|80.900|Sin Garantía|1|cocina
+106|https://i.ibb.co/dJjMgSD6/imagen-2025-05-01-175632525.png|ALMOHADILLA ANTISALPICADURAS L2312-003|Mantiene áreas secas\nAntideslizante\nEvita salpicaduras\nColores: Gris y negro||9.900|Sin Garantía|1|cocina
+107|https://i.ibb.co/674mJFC9/imagen-2025-05-01-175650191.png|TAPETE ESCURRIDOR INDE24-177|Diseño con crestas para drenaje\nMaterial silicona enrollable\nColor: Gris|25.000|19.900|Sin Garantía|1|cocina
+108|https://i.ibb.co/fGkS3Twc/imagen-2025-05-01-175716243.png|ESTANTE PARA GRIFO LL2305-2|Organiza esponjas y jabón\nCompacto y funcional||20.900|Sin Garantía|1|baño
+109|https://i.ibb.co/RksZDcw1/imagen-2025-05-01-175735467.png|ORGANIZADOR PARA GAVETAS INDE24-106|Sistema ajustable de agujeros/clavijas\nMaterial plástico color gris\nOrganiza elementos de cocina|46.000|39.900|Sin Garantía|1|organización
+110|https://i.ibb.co/S4qGKYpZ/imagen-2025-05-01-175755679.png|ORGANIZADOR EXPANDIBLE LA24-001|9 compartimientos intercambiables\nEspecial para tapas de ollas\nColor negro||42.900|Sin Garantía|1|organización
+111|https://i.ibb.co/4g00dYcX/imagen-2025-05-01-175813582.png|DISPENSADOR PARA ROLLOS DE COCINA A-515|Organiza papel aluminio, cocina y vinipel\nIncluye cortador|57.000|49.900|Sin Garantía|1|cocina
+112|https://i.ibb.co/bxL0Nv9/imagen-2025-05-01-175837598.png|FILTRO PURIFICADOR ZOOSEN ZSW-01A|Filtro de agua para grifo||26.900|1 Mes|1|cocina
+113|https://i.ibb.co/HDYWxKHM/imagen-2025-05-01-180005338.png|MEZCLADOR MANUAL W218|Capacidad: 800ml\nPara masas, huevos, etc|38.000|30.900|Sin Garantía|1|cocina
+114|https://i.ibb.co/FLKmTP5m/imagen-2025-05-01-180021360.png|CANECA DE BASURA LL2305-26|Colores: Gris beige, blanco\nPlástico termo sellado|24.000|17.900|Sin Garantía|1|cocina
+115|https://i.ibb.co/rRrrSfxP/imagen-2025-05-01-180040412.png|AFILADOR MANUAL HCK-168|Afilado en 3 etapas|15.000|9.900|Sin Garantía|1|cocina
+116|https://i.ibb.co/svmVhTWF/imagen-2025-05-01-180054787.png|SET DE CUCHILLOS .0278|Incluye: 4 cuchillos, tijeras y pelador\nPresentación en caja|22.000|16.900|Sin Garantía|1|cocina
+117|https://i.ibb.co/5g9HZXtX/imagen-2025-05-01-180156822.png|SET DE CUCHILLOS EF-0278|Presentación en estuche\nCuchillos gruesos\nIncluye: picador, chef, pan, pelar\nTijera y pelador||23.900|Sin Garantía|1|cocina
+118|https://i.ibb.co/vvX1xXgf/imagen-2025-05-01-180215329.png|SET DE BARBACOA INDE24-018|9 piezas: espátula, pinza, tenedor\nBrocha, cuchillo + 4 brochetas\nCon estuche||33.900|Sin Garantía|1|cocina
+119|https://i.ibb.co/5gqBF5xS/imagen-2025-05-01-180238487.png|SET DE BARBACOA INDE24-019|15 piezas: espátula, pinza, tenedor\nBrocha silicona, cepillo, cuchillo\n4 soportes mazorca + 5 brochetas\nCon estuche|51.900|45.900|Sin Garantía|1|cocina 
+120|https://i.ibb.co/672BZpgq/imagen-2025-05-01-180307217.png|RECIPIENTE PARA HIERBAS HJ-268|Conserva hierbas frescas en nevera|21.900|16.900|Sin Garantía|1|cocina
+121|https://i.ibb.co/d46khDTR/imagen-2025-05-01-180336413.png|MANDOLINA 6 EN 1 KITCHEN ROJO QCQ|Rebanador multifuncional\nCorta/tritura/rebanadora||31.900|Sin Garantía|1|cocina
+122|https://i.ibb.co/HLBB8WPx/imagen-2025-05-01-180359469.png|REBANADOR MULTIFUNCIONAL 800|3 tipos de rayados\nRebanador extraíble||3.900|Sin Garantía|1|cocina
+123|https://i.ibb.co/cXRrNHz0/imagen-2025-05-01-180418770.png|REBANADOR 3 EN 1 L2206-6|3 funciones de corte\nDiseño práctico|20.000|14.900|Sin Garantía|1|cocina
+124|https://i.ibb.co/GQfH7TbP/imagen-2025-05-01-180444978.png|MINI PICADOR DE PULSO JS-Q2|Ideal para picar alimentos\nCapacidad: 25ml\nAltura: 11cm\nColores: Blanco y rosado|28.000|22.900|1 Mes|1|cocina
 
 
 
