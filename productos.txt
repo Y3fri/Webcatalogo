@@ -105,8 +105,8 @@
 106|https://i.ibb.co/dJjMgSD6/imagen-2025-05-01-175632525.png|ALMOHADILLA ANTISALPICADURAS L2312-003|Mantiene áreas secas\nAntideslizante\nEvita salpicaduras\nColores: Gris y negro||9.900|Sin Garantía|1|cocina
 107|https://i.ibb.co/674mJFC9/imagen-2025-05-01-175650191.png|TAPETE ESCURRIDOR INDE24-177|Diseño con crestas para drenaje\nMaterial silicona enrollable\nColor: Gris|25.000|19.900|Sin Garantía|1|cocina
 108|https://i.ibb.co/fGkS3Twc/imagen-2025-05-01-175716243.png|ESTANTE PARA GRIFO LL2305-2|Organiza esponjas y jabón\nCompacto y funcional||20.900|Sin Garantía|1|baño
-109|https://i.ibb.co/RksZDcw1/imagen-2025-05-01-175735467.png|ORGANIZADOR PARA GAVETAS INDE24-106|Sistema ajustable de agujeros/clavijas\nMaterial plástico color gris\nOrganiza elementos de cocina|46.000|39.900|Sin Garantía|1|organización
-110|https://i.ibb.co/S4qGKYpZ/imagen-2025-05-01-175755679.png|ORGANIZADOR EXPANDIBLE LA24-001|9 compartimientos intercambiables\nEspecial para tapas de ollas\nColor negro||42.900|Sin Garantía|1|organización
+109|https://i.ibb.co/RksZDcw1/imagen-2025-05-01-175735467.png|ORGANIZADOR PARA GAVETAS INDE24-106|Sistema ajustable de agujeros/clavijas\nMaterial plástico color gris\nOrganiza elementos de cocina|46.000|39.900|Sin Garantía|1|organizador
+110|https://i.ibb.co/S4qGKYpZ/imagen-2025-05-01-175755679.png|ORGANIZADOR EXPANDIBLE LA24-001|9 compartimientos intercambiables\nEspecial para tapas de ollas\nColor negro||42.900|Sin Garantía|1|organizador
 111|https://i.ibb.co/4g00dYcX/imagen-2025-05-01-175813582.png|DISPENSADOR PARA ROLLOS DE COCINA A-515|Organiza papel aluminio, cocina y vinipel\nIncluye cortador|57.000|49.900|Sin Garantía|1|cocina
 112|https://i.ibb.co/bxL0Nv9/imagen-2025-05-01-175837598.png|FILTRO PURIFICADOR ZOOSEN ZSW-01A|Filtro de agua para grifo||26.900|1 Mes|1|cocina
 113|https://i.ibb.co/HDYWxKHM/imagen-2025-05-01-180005338.png|MEZCLADOR MANUAL W218|Capacidad: 800ml\nPara masas, huevos, etc|38.000|30.900|Sin Garantía|1|cocina
@@ -121,9 +121,148 @@
 122|https://i.ibb.co/HLBB8WPx/imagen-2025-05-01-180359469.png|REBANADOR MULTIFUNCIONAL 800|3 tipos de rayados\nRebanador extraíble||3.900|Sin Garantía|1|cocina
 123|https://i.ibb.co/cXRrNHz0/imagen-2025-05-01-180418770.png|REBANADOR 3 EN 1 L2206-6|3 funciones de corte\nDiseño práctico|20.000|14.900|Sin Garantía|1|cocina
 124|https://i.ibb.co/GQfH7TbP/imagen-2025-05-01-180444978.png|MINI PICADOR DE PULSO JS-Q2|Ideal para picar alimentos\nCapacidad: 25ml\nAltura: 11cm\nColores: Blanco y rosado|28.000|22.900|1 Mes|1|cocina
-
-
-
+125|https://i.ibb.co/WvxzrSFr/imagen-2025-05-01-180524855.png|MINI PICADOR KB010|Accionamiento de pulso\nCapacidad: 100ml\nPotencia: 48W\nRecargable USB\nColores: Blanco y verde|33.900|28.900|1 Mes|1|cocina
+126|https://i.ibb.co/2Y0bxh2b/imagen-2025-05-01-180541190.png|PICADOR MULTIFUNCIONAL LZ206-8|2 funciones: picado y batido\nRecargable USB\n3 velocidades\nColores: Azul, rosado, verde y blanco||36.900|1 Mes|1|cocina 
+127|https://i.ibb.co/B5XxjmWB/imagen-2025-05-01-180604792.png|MOLINO TRADICIONAL PARA GRANO L14200|Molino manual para todo tipo de granos|144.900|134.900|Sin Garantía|1|cocina  
+128|https://i.ibb.co/xtHCxxNx/imagen-2025-05-01-180623986.png|MOLINO PARA CARNES L13500|Para hacer embutidos, albóndigas y moler carnes|151.000|144.900|Sin Garantía|1|cocina  
+129|https://i.ibb.co/htFjW89/imagen-2025-05-01-180643377.png|LICUADORA PORTÁTIL LL898|6 aspas\nCapacidad 340ml\nIncluye pitillo\nRecargable USB\nPausa automática a 1 minuto\nColores: rosado, verde, azul|46.900|39.900|1 Mes|1|cocina  
+130|https://i.ibb.co/PGqyL1wb/imagen-2025-05-01-180701834.png|LICUADORA RECARGABLE ZY-3S|2 cuchillas\nRecargable USB\nPausa a 2 minutos\nColores: verde, azul marino, rosado, morado|29.900|22.900|1 Mes|1|cocina   
+131|https://i.ibb.co/HLQs4xqD/imagen-2025-05-01-180728219.png|LICUADORA SAMURAI OPTIMIX|Potencia: 500W\n2 velocidades + pulso\nVaso plástico 2L|105.000|97.900|1 Año|1|cocina
+132|https://i.ibb.co/2YpH9SbR/imagen-2025-05-01-180756841.png|LICUADORA IMUSA POWERMIX|Potencia: 550W\n2 velocidades + pulso\nVaso plástico negro 2L|128.000|118.900|1 Año|1|cocina
+133|https://i.ibb.co/s9BNRQpS/imagen-2025-05-01-180818157.png|LICUADORA BLACK+DECKER DURAPRO BLBD210GB|Potencia: 550W\n10 velocidades + pulso\nVaso vidrio 1.25L|122.000|114.900|1 Año|1|cocina
+134|https://i.ibb.co/7MC4tQd/imagen-2025-05-01-180858061.png|LICUADORA OSTER CLASICA BLST4655|Potencia: 700W\n3 velocidades\nVaso vidrio 1.25L||297.900|1 Año|1|cocina
+135|https://i.ibb.co/fzRTGYDR/imagen-2025-05-01-180917511.png|PLANCHA UNIVERSAL VIAJERA IU-PV01|Colores: Amarillo, rosado, verde|49.000|42.900|3 Meses|1|cocina 
+136|https://i.ibb.co/kVn79T3B/imagen-2025-05-01-180933729.png|PLANCHA UNIVERSAL ROYAL SECA IU-78||59.000|54.900|3 Meses|1|cocina
+137|https://i.ibb.co/kV9ZFxRv/imagen-2025-05-01-180958314.png|PLANCHA UNIVERSAL ROYAL A VAPOR IU-660T||118.000|109.900|3 Meses|1|cocina
+138|https://i.ibb.co/8DJ3KDYG/imagen-2025-05-01-181019845.png|PLANCHA ICM ICM-P03|1200 watts\nSuela antiadherente\nGolpe de vapor\nRocío fino\nVapor variable||69.900|6 Meses|1|cocina 
+139|https://i.ibb.co/gbZcnnfX/imagen-2025-05-01-181047848.png|PLANCHA BLACK+DECKER IRBD300|1200 watts\nSuela antiadherente\nGolpe de vapor\nFunción 6x400Seq™\nRocío fino\nVapor variable|78.000|71.900|1 Año|1|cocina
+140|https://i.ibb.co/QvpnjR9B/imagen-2025-05-01-181103349.png|VAPORIZADOR VERTICAL ICM ICM-P06|Rápido y eficiente\nTanque agua 220ml desmontable\n1200W\nCable 1.8m|118.000|110.900|6 Meses|1|cocina
+141|https://i.ibb.co/jZrrn54f/imagen-2025-05-01-181126843.png|PLANCHA BLACK+DECKER IGR1924|1200 watts\nCable retráctil\nSuela EvacuSeq™\nVapor vertical\nSistema Anti-Goteco|132.000|126.900|1 Año|1|cocina
+142|https://i.ibb.co/b58FFtjk/imagen-2025-05-01-181150988.png|WAFLERA UNIVERSAL ROYAL IU_WFL02||69.900|64.900|3 Meses|1|cocina  
+143|https://i.ibb.co/B2KhKc7x/imagen-2025-05-01-181207985.png|SANDUCHERA LA INDEPENDENCIA HG-225||67.000|62.900|3 Meses|1|cocina
+144|https://i.ibb.co/1fVWbhQ1/imagen-2025-05-01-181230835.png|SANDUCHERA PANINI KALLEY K-SMP200||69.900|64.900|1 Año|1|cocina  
+145|https://i.ibb.co/23DfnPX9/imagen-2025-05-01-181253188.png|SANDWICHERA BLACK+DECKER SM1000W|700W\nCapacidad 2 piezas\nSuperficie antiadherente\nCierre seguridad\nLuz indicadora|92.000|89.900|1 Año|1|cocina
+146|https://i.ibb.co/MDwQwdyz/imagen-2025-05-01-181309028.png|WAFLERA MINI F607|350W\nSuperficie antiadherente||27.900|3 Meses|1|cocina
+147|https://i.ibb.co/BVfQyHbv/imagen-2025-05-01-181330025.png|ASPIRADORA PORTÁTIL DE MANO Q8|Rotación 60°\nRecargable 5V-1.5A\nSucción 6000PA\nIncluye boquilla y cepillo\nColores: Negro y blanco|25.000|23.900|1 Mes|1|tecnologia
+148|https://i.ibb.co/mC0JbTRh/imagen-2025-05-01-181449969.png|MANGUITO GIRATORIO Q8 3R-2151|Rotación 360°\nUso con una mano\nPresentación en blister|22.000|19.900|Sin Garantía|1|herramientas
+149|https://i.ibb.co/5N5dSnz/imagen-2025-05-01-181521545.png|HERRAMIENTA SACAGOLPES L08-1|Plástico resistente\nColores: Rojo/Naranja\nDiámetro: 118mm|22.000|19.900|Sin Garantía|1|herramientas
+150|https://i.ibb.co/7xx2cMmk/imagen-2025-05-01-181542938.png|HERRAMIENTA SACAGOLPES METÁLICO L08-2|Material metálico\nColores: Rojo/Naranja\nDiámetro: 118mm||21.900|Sin Garantía|1|herramientas
+151|https://i.ibb.co/d4WHCNsp/imagen-2025-05-01-181558333.png|VENTILADOR MINI LD8324|Recargable USB\n3 velocidades\nIncluye linterna\nColores: Amarillo/Rosado/Blanco|23.000|19.900|1 Mes|1|ventiladores
+152|https://i.ibb.co/cSp2QJnT/imagen-2025-05-01-181617325.png|VENTILADOR CON HUMIDIFICADOR SL6619|4 velocidades\nRecargable USB-C\nFiltro humidificador\nColores: Lila/Blanco/Curuba|13.000|25.900|1 Mes|1|ventiladores
+153|https://i.ibb.co/9mm8VR0N/imagen-2025-05-01-181654785.png|VENTILADOR RECARGABLE S269|4 pulgadas\n5 velocidades\nIndicador de carga\nSoporte para celular\nColores: Gris, Blanco, Negro, Rosado|30.000|27.900|1 Mes|1|ventiladores
+154|https://i.ibb.co/WNqjHJZT/imagen-2025-05-01-181710561.png|VENTILADOR 4" USB HJ-S-13|Ventilador pequeño USB\n4 pulgadas|26.000|22.900|1 Mes|1|ventiladores
+155|https://i.ibb.co/84YWvjq4/imagen-2025-05-01-181727991.png|VENTILADOR 6" HJ-T-18-1|Ventilador mediano USB\n6 pulgadas|30.000|27.900|1 Mes|1|ventiladores
+156|https://i.ibb.co/hRDH2frh/imagen-2025-05-01-181742302.png|VENTILADOR 6" HJ-Y-6|Ventilador para vehículo\n8 pulgadas\n12V|50.000|42.900|3 Meses|1|ventiladores
+157|https://i.ibb.co/BHwTPBs2/imagen-2025-05-01-181813503.png|VENTILADOR 8" CON PINZA HJ-180|Sistema de pinza\nAlimentación 110V\n8 pulgadas||62.900|3 Meses|1|ventiladores
+158|https://i.ibb.co/qYCw3kxP/imagen-2025-05-01-181834115.png|VENTILADOR SOLAR|12 pulgadas\nRecarga solar/110V\nUSB para celulares\n2 velocidades\nLuz nocturna\nEstático/giratorio\nPanel: 3W/9V|144.000|124.900|3 Meses|1|ventiladores
+159|https://i.ibb.co/xSFXdCcK/imagen-2025-05-01-181900024.png|VENTILADOR SOLAR CON RADIO GD8019|8 pulgadas\nRecarga solar tipo C\nUSB/MP3/Bluetooth\nRadio FM\n2 velocidades\nLuz nocturna\nPanel: 8W/6V||129.900|3 Meses|1|ventiladores
+160|https://i.ibb.co/NnJXNtvp/imagen-2025-05-01-181922665.png|VENTILADOR 18" SAMURAI SILENCE FORCE PLUS VE774110|Tipo pedestal/pared\n3 velocidades\n80W\nColor negro|285.000|279.900|1 Año|1|ventiladores
+161|https://i.ibb.co/gbz1jxbC/imagen-2025-05-01-181943679.png|SECADOR DE ZAPATOS PORTÁTIL PM09|6 modos temporizador\nPara tallas >34\nPortátil para viajes||58.900|2 Meses|1|tecnologia
+162|https://i.ibb.co/N6m35J1r/imagen-2025-05-01-182022577.png|SET ORGANIZADOR X3 INDE24-116|Para calcetines/ropa interior\nColores: Girls/beige|35.000|32.900|Sin Garantía|1|organizador
+163|https://i.ibb.co/99Tg4VDr/imagen-2025-05-01-182047370.png|CAJA ALMACENAMIENTO TELA OXFORD 2408-036|Para ropa de cama y más\nColores: Negro, gris, beige\nEmpaque en bolsa||32.900|Sin Garantía|1|organizador
+164|https://i.ibb.co/bMWwGYZp/imagen-2025-05-01-182108187.png|ORGANIZADOR ZAPATOS PLÁSTICO XG16|2 niveles con puerta\n3 subniveles cada uno\nColor negro\nViene desarmado|85.000|79.900|Sin Garantía|1|organizador
+165|https://i.ibb.co/d0M1dPsS/imagen-2025-05-01-182133912.png|ARMARIO PLÁSTICO INDE24-184A|3 niveles\nViene desarmado\nMedidas: 1.07m x 36cm|93.000|88.900|Sin Garantía|1|organizador
+166|https://i.ibb.co/gLZMzNqr/imagen-2025-05-01-182206374.png|ARMARIO PLÁSTICO INDE24-184B|3 niveles\nViene desarmado|93.000|88.900|Sin Garantía|1|organizador
+167|https://i.ibb.co/DgHWJ3B6/imagen-2025-05-01-182219588.png|ARMARIO PLÁSTICO INFANTIL INDE24-132B|3 niveles\n1 sección con colgador + 6 organizadores\nViene desarmado|130.000|124.900|Sin Garantía|1|organizador
+168|https://i.ibb.co/XrCMmPwb/imagen-2025-05-01-182241150.png|ARMARIO PLÁSTICO BEIGE|3 niveles\n1 sección con colgador + 6 organizadores\nViene desarmado|130.000|124.900|Sin Garantía|1|organizador
+169|https://i.ibb.co/FbpphrDV/imagen-2025-05-01-182301108.png|ARMARIO PLÁSTICO SHG-012-1G|4 niveles\n1 sección con colgador + 9 organizadores\nColor blanco/negro|220.000|199.900|Sin Garantía|1|organizador
+170|https://i.ibb.co/zWYNszh3/imagen-2025-05-01-182317374.png|TENDEDERO RETRACTIL SUS304|1 línea de cuerda\nBotón bloqueo\nExtensión 2.8m||25.900|Sin Garantía|1|organizador
+171|https://i.ibb.co/vCfTb8b9/imagen-2025-05-01-182338391.png|TENDEDERO RETRACTIL 5 LÍNEAS TT-5|5 líneas de cuerda|43.000|38.900|Sin Garantía|1|organizador
+172|https://i.ibb.co/LDWMv7rc/imagen-2025-05-01-182402463.png|TENDEDERO PLEGABLE ALUMINIO M5-60|Tendedero plegable de aluminio|75.000|69.900|Sin Garantía|1|organizador
+173|https://i.ibb.co/q3Cmq2Vp/imagen-2025-05-01-182422520.png|TENDEDERO PLEGABLE ALUMINIO 706|Extensión plegada: 13cm|118.000|99.900|Sin Garantía|1|organizador
+174|https://i.ibb.co/wjM5QxR/imagen-2025-05-01-182442829.png|LLAVE MULTIFUNCIONAL 48 EN 1 L2212-011|Cabezales giratorios 360°/45°\nMango antideslizante de goma|43.000|38.900|Sin Garantía|1|herramientas
+175|https://i.ibb.co/W4yDg159/imagen-2025-05-01-182500592.png|ALICATE MULTIUSO XZ-0031|Mini alicate (hasta 10mm)\nMini llave expansiva\nMini navaja\n3 cabezas destornillador|43.900|39.900|Sin Garantía|1|herramientas
+176|https://i.ibb.co/hJ6PjTwB/imagen-2025-05-01-182524000.png|HERRAMIENTA MULTIUSO MQ039DG|Incluye 10+ herramientas\nAcero inoxidable\nCon estuche\nMedida: 10.6cm cerrado|56.000|52.900|Sin Garantía|1|herramientas
+177|https://i.ibb.co/fYxqm8Xz/imagen-2025-05-01-182724549.png|BOLSA IMPERMEABLE LL2305-21MC|Capacidad 10L\nIncluye correa\nSellado por doblez\nColores variados|78.000|74.900|Sin Garantía|1|herramientas
+178|https://i.ibb.co/fzR88L7X/imagen-2025-05-01-182746870.png|BOLSA IMPERMEABLE NEGRA LL2305-21|Capacidad 10L\nIncluye correa\nSellado por doblez|78.000|74.900|Sin Garantía|1|herramientas
+179|https://i.ibb.co/h1FCtypb/imagen-2025-05-01-182803058.png|ESTANTE ALMACENAMIENTO 20247-3|3 niveles\nRuedas giratorias 360°\nColor blanco\nPara baño/cocina|90.000|84.900|Sin Garantía|1|organizador
+180|https://i.ibb.co/k2sS3jq4/imagen-2025-05-01-182859833.png|ESTANTE RECTANGULAR YR-905|4 niveles\nRuedas giratorias 300°\nMaterial hierro\nUso multifuncional||99.900|Sin Garantía|1|organizador
+181|https://i.ibb.co/S8VgTfv/imagen-2025-05-01-182919007.png|ESTANTE REDONDO GIRATORIO Y-4|4 niveles\nDiseño cesta giratoria\nRuedas 300°\nMaterial hierro|262.000|243.900|Sin Garantía|1|organizador
+182|https://i.ibb.co/LVfxVjb/imagen-2025-05-01-182935983.png|LIMPIADOR DE VIDRIOS INDE24-113|Con spray dosificador\nPara ventanas, espejos, azulejos\nColores: Azul, amarillo, blanco|25.000|20.900|Sin Garantía|1|herramientas
+183|https://i.ibb.co/sv0N0dNF/imagen-2025-05-01-182951256.png|ORGANIZADOR METÁLICO PARA INODORO LA24-002|1 nivel con rejillas\nColor blanco/negro|38.000|33.900|Sin Garantía|1|organizador
+184|https://i.ibb.co/XZ9Z6snx/imagen-2025-05-01-183004876.png|ORGANIZADOR PARA INODORO 8818-2|2 niveles\nMaterial plástico|37.000|34.900|Sin Garantía|1|organizador 
+185|https://i.ibb.co/Pv2ZF95S/imagen-2025-05-01-183026557.png|LÁMPARA ESCRITORIO FLEXIBLE MS-13|Encendido táctil\nRecargable USB\n3 temperaturas de luz (2.8W/200lm)\nColores: Blanco/Verde/Menta/Rosado||42.900|15 Días|1|tecnologia
+186|https://i.ibb.co/KcdVSx8V/imagen-2025-05-01-183044581.png|LÁMPARA ESCRITORIO FLEXIBLE|Encendido táctil\nRecargable USB\n3 temperaturas luz (600lm)\nSoporte para bolígrafos\nColor blanco||54.900|15 Días|1|tecnologia
+187|https://i.ibb.co/834G1zr/imagen-2025-05-01-183058794.png|LÁMPARA ESCRITORIO KS-306|Pinza ajustable\n3 temperaturas luz\nIntensidad regulable (5-10W)\n110V\nColores: Blanco/Negro|52.000|49.900|1 Mes|1|tecnologia
+188|https://i.ibb.co/35w6PbQF/imagen-2025-05-01-183113162.png|LÁMPARA LED DE ESCRITORIO|10 niveles brillo\n3 modos luz\nFlexible con clip\nUSB 10W\n110V|81.000|75.900|1 Mes|1|tecnologia
+189|https://i.ibb.co/5hJKHZ2W/imagen-2025-05-01-183126278.png|LÁMPARA DECORATIVA INDE24-074|Base imantada\n2 modos: switch/sensor movimiento\nLuz cálida\nColor café oscuro|38.000|31.900|15 Días|1|tecnologia  
+190|https://i.ibb.co/KctLSpJK/imagen-2025-05-01-183140507.png|LÁMPARA LED GS975|Para closet/armario\nRecargable USB-C\nSensor movimiento|51.000|47.900|1 Mes|1|tecnologia  
+191|https://i.ibb.co/39586nn5/imagen-2025-05-01-183155450.png|LÁMPARA DECORATIVA "LOVE" LL2305-18|Funciona con 3 baterías AA\n5V DC (adaptador USB)|21.000|16.900|1 Mes|1|tecnologia  
+192|https://i.ibb.co/cSHqkLDk/imagen-2025-05-01-183211786.png|LÁMPARA RAMA DE ÁRBOL LL2305-9|Alimentación 110V|34.000|29.900|1 Mes|1|tecnologia  
+193|https://i.ibb.co/cK4q4jPG/imagen-2025-05-01-183237730.png|LÁMPARA CRISTAL 8208|1W\n3 modos luz\nCambio táctil\nRecargable USB-C||29.900|1 Mes|1|tecnologia   
+194|https://i.ibb.co/GQMBny3h/imagen-2025-05-01-183301137.png|LÁMPARA SILICONA PERRO 206|Tacto suave silicona\nEncendido táctil\ntecnologia multicolor\nTemporizador 30min|59.000|54.900|1 Mes|1|tecnologia
+195|https://i.ibb.co/N60C5L0K/imagen-2025-05-01-183320940.png|BOCINA BICICLETA L2206-9|Funciona con 2 baterías CR2032\n5 tonos intercambiables||26.900|15 Días|1|linterna
+196|https://i.ibb.co/r2N4tpm9/imagen-2025-05-01-183347438.png|LINTERNA TRASERA BICI HYD-009|Recargable USB\n5 modos luz\nResistente al agua||16.900|1 Mes|1|linterna
+197|https://i.ibb.co/fdj80Jxd/imagen-2025-05-01-183402608.png|LINTERNA TRASERA HJ035|150 lúmenes\nRecargable USB\n5 modos luz\nBlanca/roja\nResistente agua|33.000|27.900|1 Mes|1|linterna
+198|https://i.ibb.co/zHT255Qr/imagen-2025-05-01-183424480.png|BOMBILLO LED MATA ZANCUDOS B1|LED 15W\nEfectivo contra insectos|25.000|21.900|1 Mes|1|tecnologia
+199|https://i.ibb.co/JFb9QzCQ/imagen-2025-05-01-183442657.png|BOMBILLO LED a95|Recargable USB\n5 modos luz\n5V/0.8W|25.000|21.900|1 Mes|1|tecnologia
+200|https://i.ibb.co/JRfGJc1j/imagen-2025-05-01-183458209.png|LÁMPARA ELECTRICA MATA ZANCUDOS hk-1107|Luz ultravioleta\nMedidas: 25.5x11cm|37.000|34.900|3 Meses|1|tecnologia
+201|https://i.ibb.co/0RKKBXZ9/imagen-2025-05-01-183516168.png|LÁMPARA MATA INSECTOS XH-27|Rotación 0-180°\nUSB recargable\nLuz ultravioleta\nPortátil multiposición||34.900|3 Meses|1|tecnologia
+202|https://i.ibb.co/BKj2zVRy/imagen-2025-05-01-183530322.png|LINTERNA DE CABEZA SL10|Sensor movimiento\n6 modos luz\nBlanco/rojo\nUSB recargable|36.000|29.900|2 Meses|1|linterna
+203|https://i.ibb.co/5WRKwRYj/imagen-2025-05-01-183553003.png|LINTERNA FRONTAL XQ-33|Luz azul/blanco\nMúltiples modos\nUSB recargable||29.900|2 Meses|1|linterna
+204|https://i.ibb.co/nMFwDJCq/imagen-2025-05-01-183612691.png|MINI LINTERNA WCD-511|Compacta\nBásica|19.900|15.900|15 Días|1|linterna
+205|https://i.ibb.co/X0Zc8Vw/imagen-2025-05-01-183630183.png|MINI LINTERNA MILITAR 535|Diseño compacto militar|19.900|15.900|15 Días|1|linterna
+206|https://i.ibb.co/27rtzXqV/imagen-2025-05-01-183650599.png|LINTERNA SOLAR JL-9517T|Recarga solar/USB\nColores: Rojo/Verde/Gris||16.900|15 Días|1|linterna
+207|https://i.ibb.co/Gvcd6tJX/imagen-2025-05-01-183703518.png|LINTERNA SOLAR GM3660|Recarga solar/USB\nColores: Azul/Gris||19.900|15 Días|1|linterna
+208|https://i.ibb.co/bj3krTzN/imagen-2025-05-01-183726716.png|LINTERNA WH-850|2 modos (frontal/lateral)\nPlástico resistente\nRecargable|10.000|21.900|1 Mes|1|linterna
+209|https://i.ibb.co/sv2MXLP7/imagen-2025-05-01-183743063.png|LINTERNA METÁLICA SWAT YX-001|Construcción metálica resistente|34.000|29.900|1 Mes|1|linterna
+210|https://i.ibb.co/ZRwY28Ph/imagen-2025-05-01-183756884.png|LINTERNA X36|Zoom ajustable\n7 modos luz\nBlanco/Rojo/Azul\nRecarga USB-C/solar\nColores: Plateado/Negro||29.900|1 Mes|1|linterna
+211|https://i.ibb.co/SX8f1yLg/imagen-2025-05-01-183823149.png|LINTERNA TASER RECARGABLE|1000KV de potencia|29.900|26.900|1 Mes|1|linterna
+212|https://i.ibb.co/6RyszhYr/imagen-2025-05-01-183856175.png|BASTÓN TASER CON LINTERNA 1138|Doble función (luz y defensa)||74.900|1 Mes|1|linterna
+213|https://i.ibb.co/whL8Y1c1/imagen-2025-05-01-184005753.png|LINTERNA M15|Ángulo 180°\n350 lúmenes|29.000|24.900|1 Mes|1|linterna
+214|https://i.ibb.co/sdFSmkBB/imagen-2025-05-01-184026668.png|LINTERNA SOLAR HX-6-8|8 LEDs frontales\nPanel solar incorporado||27.900|1 Mes|1|linterna
+215|https://i.ibb.co/JFpDXkXz/imagen-2025-05-01-184045491.png|LINTERNA LED PORTÁTIL SS-591B-2|tecnologia frontal y lateral|43.000|39.900|2 Meses|1|linterna
+216|https://i.ibb.co/Ngq2ZkW8/imagen-2025-05-01-184057900.png|BOMBILLO SOLAR CCLAMP CL-508|Incluye cable para celular\nBombillo secundario\nPanel solar 1.2W\nAutonomía: 4 horas|36.000|32.900|1 Mes|1|paneles
+217|https://i.ibb.co/39FrQ4BN/imagen-2025-05-01-184122880.png|LÁMPARA SOLAR JY901|Recarga USB/solar\nLuz fría\nColores: Naranja/Azul||37.900|1 Mes|1|paneles
+218|https://i.ibb.co/v4VVBzvd/imagen-2025-05-01-184156386.png|LÁMPARA SOLAR Z-825T|Recarga USB-C/solar\n50W\nBatería 1800mAh\n3 tipos luz: Fría/Cálida/Neutra\nPilas intercambiables|37.900|32.900|1 Mes|1|paneles
+219|https://i.ibb.co/cKP2kYS6/imagen-2025-05-01-184211207.png|LÁMPARA SOLAR CON PANTALLA NV-E936|Indicador de carga\n50W\nBatería 2600mAh\nLuz fría\n2 intensidades|48.000|44.900|1 Mes|1|paneles
+220|https://i.ibb.co/zT9GPy6y/imagen-2025-05-01-184237040.png|LINTERNA SOLAR CL-033|Incluye:\n- Cable celular\n- Multi toma\n- Mini lámpara\n- Bombillo\nPanel solar 1.8W/9W\nCarga: 8-10h\nUso: 10h|49.000|44.900|1 Mes|1|linterna
+221|https://i.ibb.co/5gVZftRC/imagen-2025-05-01-184312121.png|LÁMPARA SOLAR AS0506|Recarga solar/110V\nPanel solar incluido||18.900|1 Mes|1|paneles
+222|https://i.ibb.co/C5GN49pH/imagen-2025-05-01-184326681.png|LÁMPARA CAMPING SH-5800T|Recarga 110V/solar\nColores: Azul/Negra/Dorada\nAltura: 12cm|26.000|21.900|1 Mes|1|paneles
+223|https://i.ibb.co/357VVWGZ/imagen-2025-05-01-184339758.png|LÁMPARA SOLAR 2029|Luz fría 15W\nRecarga USB\n5 modos luz||25.900|2 Meses|1|paneles
+224|https://i.ibb.co/B5Qw62BV/imagen-2025-05-01-184404615.png|LÁMPARA LED ATOMIC BEAM HHR-59|Adhesivo fuerte\nBoton ON/OFF\nRequiere 3 pilas AAA (no incluidas)|15.000|11.900|1 Mes|1|tecnologia
+225|https://i.ibb.co/QFwrFNwn/imagen-2025-05-01-184428612.png|LÁMPARA SOLAR HS-8010A|180 LEDs\nSensor movimiento 120°\n900LM\n5.5V/5W\nResistente agua|74.000|69.900|1 Mes|1|paneles
+226|https://i.ibb.co/PJpCSbW/imagen-2025-05-01-184449348.png|LÁMPARA SOLAR JID-2178T|77 LEDs brillantes\nIncluye control\n2W\nResistente agua|29.000|25.900|2 Meses|1|paneles
+227|https://i.ibb.co/krtLyXT/imagen-2025-05-01-184512660.png|FAROLA SOLAR HS-V83|Instalación suelo/pared\nSensor movimiento\n3 intensidades\nPanel 5.5V/1.8W\nResistente agua||56.900|2 Meses|1|paneles
+228|https://i.ibb.co/5hZk42Dg/imagen-2025-05-01-184527869.png|LÁMPARA SOLAR PP-890C|17 LEDs\n40W\nSensor movimiento\nBrazo articulado\n3 modos luz\nControl remoto\nResistente agua|69.900|64.900|2 Meses|1|paneles
+229|https://i.ibb.co/MzvNh7q/imagen-2025-05-01-184541618.png|LÁMPARA SOLAR EXTERIOR LP-779|16 LEDs\n160W\nLuz fría\nPanel ajustable\nPara balcones/fachadas|42.000|36.900|2 Meses|1|paneles
+230|https://i.ibb.co/pvZRnmdG/imagen-2025-05-01-184559037.png|LÁMPARA SOLAR EXTERIOR LH-BT05|5 LEDs\n50W\n3 tipos luz\nPanel fijo\nPara balcones/fachadas|52.000|48.900|2 Meses|1|paneles 
+231|https://i.ibb.co/tTp8vYHv/imagen-2025-05-01-184656265.png|LÁMPARA SOLAR JD-2096|Sensor movimiento 2D\nAltura recomendada: 2m\nBotón ON/OFF trasero\nSelector modo luz (fuerte/medio/débil)\n96 LEDs brillantes\n5W\nResistente agua|55.000|48.900|2 Meses|1|paneles
+232|https://i.ibb.co/v45zyyZ2/imagen-2025-05-01-184711359.png|LÁMPARA SOLAR LL2305-15|Instalación en suelo\n2 modos luz (fría/cálida)\n5W\nAltura: 57cm\nResistente agua||85.900|3 Meses|1|paneles
+233|https://i.ibb.co/RTLKjcPp/imagen-2025-05-01-184732416.png|LÁMPARA SOLAR CL-140|40W\n6h autonomía\nDoble sensor (movimiento/luz)\nMedidas: 50x25cm\nResistente agua\nSin Control|140.000|132.900|3 Meses|1|paneles
+234|https://i.ibb.co/gFWVDSJF/imagen-2025-05-01-184752366.png|LÁMPARA SOLAR CL-160|60W\n6h autonomía\nDoble sensor (movimiento/luz)\nMedidas: 63.2x24.6cm\nResistente agua\nSin Control|168.000|164.900|3 Meses|1|paneles
+235|https://i.ibb.co/JjQtsScV/imagen-2025-05-01-184821872.png|LAMPARA SOLAR CL-380|80W\n5-8h autonomía\nBatería LiFePO4\nSensor de luz\nPanel: 45W (54×51×2.5cm)\nIP65|460.000|419.900|6 Meses|1|paneles
+236|https://i.ibb.co/zHS79DSm/imagen-2025-05-01-184842702.png|REFLECTOR PORTATIL SOLAR JD-102|800W\nLuz fría/cálida/emergencia\nRecargable USB-C\nCon gancho|59.000|55.900|2 Meses|1|paneles
+237|https://i.ibb.co/PGwTY4tj/imagen-2025-05-01-184904125.png|REFLECTOR SOLAR GD-756|Panel 6V5W\nMedidas: 18.5×15.8×5.8cm\nIP67 resistente agua|93.000|89.900|2 Meses|1|paneles
+238|https://i.ibb.co/mVxB8Nfc/imagen-2025-05-01-184927662.png|REFLECTOR SOLAR CL-730S|50W\nMedidas: 15×18.5cm\nResistente salpicaduras\nPanel: 12W 6V (35×23×2cm)\nCable: 2.9m||91.900|3 Meses|1|paneles
+239|https://i.ibb.co/wZvy8Vt3/imagen-2025-05-01-184949163.png|REFLECTOR SOLAR CL-750S|100W\nMedidas: 20.5×26.5cm\nResistente salpicaduras\nPanel: 16W 6V (35×30×2cm)\nCable: 2.9m|141.000|134.900|3 Meses|1|paneles
+240|https://i.ibb.co/WpNd3jZj/imagen-2025-05-01-185003862.png|PANEL SOLAR PLEGABLE WGWX5W-2|10W 6V\nCarga móviles (USB)\nPlegable||62.900|1 Mes|1|paneles
+241|https://i.ibb.co/5XkXLHdt/imagen-2025-05-01-185023867.png|PANEL SOLAR PLEGABLE WGWX15W-3|45W 6V\n2 puertos USB\nCable con pinza\nCarga celulares|252.000|219.900|1 Mes|1|paneles
+242|https://i.ibb.co/5gTprZ27/imagen-2025-05-01-185059625.png|PANEL SOLAR CCLAMP CL-ZD18100|100W 18V\nCarga móviles (USB/múltiple cabezal)\nVersátil conexión|305.000|286.900|1 Mes|1|paneles
+243|https://i.ibb.co/v64ZDT82/imagen-2025-05-01-185132100.png|PANEL SOLAR CL-1615|12W/15V\nCarga móviles y baterías (<12V)\nMáx. voltaje: 16V/5V/6V\nMedidas: 36×35×25cm||62.900|1 Mes|1|paneles
+244|https://i.ibb.co/chStPgMR/imagen-2025-05-01-185154150.png|PANEL SOLAR VIPSP-10W|10W/17.5V (0.55A)\nMedidas: 35×24cm\nCarga móviles|50.000|43.900|1 Mes|1|paneles
+245|https://i.ibb.co/gFBr6g27/imagen-2025-05-01-185212086.png|PANEL SOLAR 20W|20W/18V (1.11A)\nMedidas: 46×36cm\nIncluye cable de manila||79.900|1 Mes|1|paneles
+246|https://i.ibb.co/ym8m8sVQ/imagen-2025-05-01-185231552.png|PANEL SOLAR VIPSP-50W|50W/18V (2.78A)\nMedidas: 70×54cm|163.000|156.900|1 Mes|1|paneles
+247|https://i.ibb.co/svw0rkPd/imagen-2025-05-01-185306736.png|REGULADOR SOLAR 10A|Entrada: 50V máx.\nSalida: 12V/130W o 24V/260W\n10A\nConexión: 1→2→3|39.000|36.900|2 Meses|1|paneles
+248|https://i.ibb.co/99xChTGS/imagen-2025-05-01-185328909.png|REGULADOR SOLAR 60A|Entrada: 50V máx.\nSalida: 12V/780W o 24V/1560W\n60A\nConexión: 1→2→3||84.900|2 Meses|1|paneles
+249|https://i.ibb.co/4gZYLqR7/imagen-2025-05-01-185341941.png|INVERSOR 300W|DC 12V - AC 110V\nIncluye cables de pinzas||72.900|2 Meses|1|paneles
+250|https://i.ibb.co/0Rs021FC/imagen-2025-05-01-185408674.png|PANEL KIT SOLAR GOLITE SDA-300W|Incluye 3 bombillos + lámpara lateral\nCarga móviles\nFuente: 5V o panel solar (6V/3-7W)\nTiempo carga: 10-12 horas|93.000|86.900|3 Meses|1|paneles
+251|https://i.ibb.co/N2vsG58j/imagen-2025-05-01-185421414.png|PANEL KIT SOLAR GOLITE-10|Incluye 3 bombillos + lámpara lateral\nCarga móviles\nFuente: adaptador o panel solar (8V/3-7W)\nBluetooth\nTiempo carga: 10-16 horas|105.000|96.900|3 Meses|1|paneles
+252|https://i.ibb.co/pvgD0mG3/imagen-2025-05-01-185446758.png|SOPORTE PLEGABLE 33X16|Para parte trasera del TV\nCapacidad: 3kg\nPlegable|25.000|21.900|Por defectos de fábrica|1|Bases TV
+253|https://i.ibb.co/D38XLvT/imagen-2025-05-01-185500523.png|SOPORTE PARA PORTÁTIL P1|Material metálico\nColores: Negro/Gris\n6 niveles ajustables||24.900|Por defectos de fábrica|1|Bases TV
+254|https://i.ibb.co/cSqwsRB1/imagen-2025-05-01-185519694.png|SOPORTE FIJO 14"-42" S28|Para pantallas 14" a 42"|24.000|14.900|Por defectos de fábrica|1|Bases TV
+255|https://i.ibb.co/b5FtLV5z/imagen-2025-05-01-185538036.png|SOPORTE FIJO 26"-63" HD602B|Para pantallas 26" a 63"|30.000|21.900|Por defectos de fábrica|1|Bases TV
+256|https://i.ibb.co/nsCcR3LD/imagen-2025-05-01-185615929.png|SOPORTE AJUSTABLE 32"-55" 4747T|Recomendado 3m distancia\nModelo 4747T||25.900|Por defectos de fábrica|1|Bases TV
+257|https://i.ibb.co/hRTpkKxX/imagen-2025-05-01-185632289.png|SOPORTE FIJO 32-55" D2F|Para pantallas 32"-55"|32.000|28.900|Por defectos de fábrica|1|Bases TV
+258|https://i.ibb.co/My0gF1nR/imagen-2025-05-01-185647243.png|SOPORTE FIJO 32"-70"|Para pantallas 32"-70"|42.000|39.900|Por defectos de fábrica|1|Bases TV
+259|https://i.ibb.co/ynrDNDqz/imagen-2025-05-01-185819995.png|SOPORTE AJUSTABLE 32-55" NBC2-T|Para pantallas 32"-55"\nModelo NBC2-T|57.000|51.900|Por defectos de fábrica|1|Bases TV
+260|https://i.ibb.co/nM49GrQY/imagen-2025-05-01-185834060.png|SOPORTE AJUSTABLE 32-70" KT-Q3|Para pantallas 32"-70"\nModelo KT-Q3|57.000|51.900|Por defectos de fábrica|1|Bases TV
+261|https://i.ibb.co/mFGHH11v/imagen-2025-05-01-185849987.png|SOPORTE AJUSTABLE 40°-65° NBC3-T|Rango de ajuste: 40°-65°\nModelo NBC3-T|60.000|54.900|Por defectos de fábrica|1|Bases TV
+262|https://i.ibb.co/n8chCLw5/imagen-2025-05-01-185903374.png|SOPORTE AJUSTABLE 60°-120° YSD-900|Rango de ajuste: 60°-120°\nModelo YSD-900||94.900|Por defectos de fábrica|1|Bases TV
+263|https://i.ibb.co/kVsbmFgH/imagen-2025-05-01-185920445.png|SOPORTE BRAZO MONITOR 13"-27"|Dimensión máxima: 10x10\nTipo 2 brazos|110.000|99.900|Por defectos de fábrica|1|Bases TV
+264|https://i.ibb.co/zhC816HT/imagen-2025-05-01-185941484.png|SOPORTE BRAZO 14"-55" HDL-117B-2|Peso soporte: 1.465kg\nRecomendado hasta 43"|49.000|39.900|Por defectos de fábrica|1|Bases TV
+265|https://i.ibb.co/v6gTzSgk/imagen-2025-05-01-185954312.png|SOPORTE BRAZO 14"-55" HDL-117B-2|Peso soporte: 1.820kg\nRecomendado hasta 49"|56.000|47.900|Por defectos de fábrica|1|Bases TV
+266|https://i.ibb.co/TxrV7D0j/imagen-2025-05-01-190044392.png|SOPORTE DE BRAZO PEQUEÑO 32"-55" / P4|||49.900|GARANTIA POR DEFECTOS DE FABRICA|1|Bases TV
 266|https://i.ibb.co/60tST7WW/imagen-2025-05-01-190102659.png|SOPORTE DE BRAZO GRANDE 32"-60" / P40|||54.000|GARANTIA POR DEFECTOS DE FABRICA|1|Bases TV
 267|https://i.ibb.co/BHtS0jtk/imagen-2025-05-01-190134356.png|SOPORTE DE DOBLE BRAZO 32"-75" / P5|||79.000|GARANTIA POR DEFECTOS DE FABRICA|1|Bases TV
 268|https://i.ibb.co/PsWZjmkS/imagen-2025-05-01-190147789.png|SOPORTE DE DOBLE BRAZO 40"-80" / P6 ||115.000|109.900|GARANTIA POR DEFECTOS DE FABRICA|1|Bases TV
@@ -138,7 +277,11 @@
 277|https://i.ibb.co/h1XH1W2Y/imagen-2025-05-01-190409510.png|MICROFONO ALAMBRICO SM58-SK|CABLE 5M \n Con interruptor de encendido|93.000|89.900|3 Meses|1|Microfonos
 278|https://i.ibb.co/gFPCTnqn/imagen-2025-05-01-190431837.png|MICROFONO INALAMBRICO WG-100|Frecuencia: 500 - 850 MHz||74.900| 3 Meses|1|Microfonos
 279|https://i.ibb.co/MkKSrdBF/imagen-2025-05-01-190444446.png|TRIPODE PARA MICROFONO WD-901| Medidas:\nAltura máxima 1.75M\nAltura Mínima 90cm|73.000|67.900|No tiene garantia|1|Microfonos
-
-
-
+280|https://i.ibb.co/TxLqm84j/imagen-2025-05-06-235112573.png|ANTENA TXL|Cable: 3m \nMedida: ALTO 29.5CM \n"PRESENTACIÓN EN BOLSA"|15.900|12.900|No tiene garantia|1|antenas
+281|https://i.ibb.co/bR5Pz34p/imagen-2025-05-06-235135388.png|ANTENA 04B|CABLE: 2,95M ANCHO 25CM\n"PRESENTACION EN BOLSA"|41.900|38.900|No tiene garantia|1|antenas
+282|https://i.ibb.co/chr4Lkmg/imagen-2025-05-06-235642660.png|ANTENA LQ-5E|ANCHO 42CM CABLE: 8M " PRESENTACION EN BOLSA"||39.900|No tiene garantia|1|antenas
+283|https://i.ibb.co/0yny3hn9/imagen-2025-05-06-235650553.png|ANTENA DY-09E|"PRESENTACIÓN EN BOLSA" SIN CABLE|48.900|42.900|No tiene garantia|1|antenas
+284|https://i.ibb.co/s9KfhX55/imagen-2025-05-06-235708114.png|ANTENA E11|CABLE: 9.80M "PRESENTACIÓN EN BOLSA"|59.900|54.900|No tiene garantia|1|antenas
+285|https://i.ibb.co/Q3HJ4gLR/imagen-2025-05-06-235730635.png|ROLLO DE CABLE COAXIAL RG-6|100 YARDAS\nCOVERTURA: 90%||79.900|No tiene garantia|1|antenas
+286|https://i.ibb.co/n8PB5gg0/imagen-2025-05-06-235740946.png|ESTABILIZADOR DE VOLTAJE|Potencia: 1000W\nPosee 4 salidas||81.900|6 Meses|1|antenas
 
